@@ -22,21 +22,36 @@ I hate this fucking language.
 marks
 that coulda been bad
 hoo boy
+It was the best of times, it was the worst of times
 Fucking egotistical bastard. adds expandtab to vimrc
 if you're not using et, fuck off
 WHO THE FUCK CAME UP WITH MAKE?
+This is a basic implementation that works.
+By works, I meant 'doesnt work'.  Works now..
+Last time I said it works? I was kidding.  Try this.
+Just stop reading these for a while, ok.. 
+Give me a break, it's 2am.  But it works now.
+Make that it works in 90% of the cases.  3:30.
+Ok, 5am, it works.  For real.
+FOR REAL.
+I don't know what these changes are supposed to accomplish but somebody told me to make them.
+I don't get paid enough for this shit.
 fix some fucking errors
 first blush
+So my boss wanted this button ...
 uhhhhhh
 forgot we're not using a smart language
 include shit
+To those I leave behind, good luck!
 things occurred
 i dunno, maybe this works
 8==========D
+No changes made
 whooooooooooooooooooooooooooo
 clarify further the brokenness of C++. why the fuck are we using C++?
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
 .
+Friday 5pm
 changes
 A fix I believe, not like I tested or anything
 Useful text
@@ -74,7 +89,14 @@ fixes
 fix
 fail
 pointless limitation
-eppic fail eric
+eppic fail XNAMEX
+omg what have I done?
+added super-widget 2.0.
+tagging release w.t.f.
+I can't believe it took so long to fix this.
+I must have been drunk.
+This is why the cat shouldn't sit on my keyboard.
+This is why git rebase is a horrible horrible thing.
 ajax-loader hotness, oh yeah
 XNAMEX broke the regex, lame
 small is a real HTML tag, who knew.

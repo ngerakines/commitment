@@ -28,9 +28,13 @@ class MainHandler(tornado.web.RequestHandler):
 		line = randline().replace("XNAMEX", randname())
 		self.render("index.html", message = line)
 
+settings = {
+	"static_path": os.path.join(os.path.dirname(__file__), "static"),
+}
+
 application = tornado.web.Application([
 	(r"/", MainHandler),
-])
+], **settings)
 
 if __name__ == "__main__":
 	http_server = tornado.httpserver.HTTPServer(application)
