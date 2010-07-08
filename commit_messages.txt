@@ -158,3 +158,20 @@ Fixed the build.
 Fixing XNAMEX's bug.
 Fixing XNAMEX's bugs.
 various changes
+One more time, but with feeling.
+Handled a particular error.
+Fixed unnecessary bug.
+Removed code.
+Added translation.
+Updated build targets.
+Refactored configuration.
+Locating the required gigapixels to render...
+Spinning up the hamster...
+Shovelling coal into the server...
+Programming the flux capacitor
+The last time I tried this the monkey didn't survive. Let's hope it works better this time.
+I should have had a V8 this morning.
+640K ought to be enough for anybody
+pay no attention to the man behind the curtain
+a few bits tried to escape, but we caught them
+This is the last time we let XNAMEX commit ascii porn in the comments.
