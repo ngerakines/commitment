@@ -28,12 +28,18 @@ class MainHandler(tornado.web.RequestHandler):
 		line = randline().replace("XNAMEX", randname())
 		self.render("index.html", message = line)
 
+class PlainTextHandler(tornado.web.RequestHandler):
+	def get(self):
+		line = randline().replace("XNAMEX", randname())
+		self.write(line)
+
 settings = {
 	"static_path": os.path.join(os.path.dirname(__file__), "static"),
 }
 
 application = tornado.web.Application([
 	(r"/", MainHandler),
+	(r"/index.txt", PlainTextHandler),
 ], **settings)
 
 if __name__ == "__main__":
