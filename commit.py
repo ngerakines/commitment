@@ -1,4 +1,5 @@
 import os
+import sys
 import random
 import tornado.httpserver
 import tornado.ioloop
@@ -30,6 +31,7 @@ class MainHandler(tornado.web.RequestHandler):
 
 class PlainTextHandler(tornado.web.RequestHandler):
 	def get(self):
+		self.set_header("Content-Type", "text/plain")
 		line = randline().replace("XNAMEX", randname())
 		self.write(line)
 
@@ -43,6 +45,9 @@ application = tornado.web.Application([
 ], **settings)
 
 if __name__ == "__main__":
+	port = 8000
+	if sys.argv[1]:
+		port = int(sys.argv[1])
 	http_server = tornado.httpserver.HTTPServer(application)
-	http_server.listen(80)
+	http_server.listen(port)
 	tornado.ioloop.IOLoop.instance().start()
