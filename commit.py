@@ -7,7 +7,7 @@ import tornado.web
 
 names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd', 
         'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali',  
-        'Kim', 'Rainer', 'Guilaume']
+        'Kim', 'Rainer', 'Guillaume']
 
 def randline():
     text = 'commit_messages.txt'
