@@ -183,3 +183,9 @@ rats
 squash me
 fixed mistaken bug
 Final commit, ready for tagging
+-m \'So I hear you like commits ...\'
+epic
+need another beer
+Well the book was obviously wrong.
+lolwhat?
+Another commit to keep my CAN streak going.
