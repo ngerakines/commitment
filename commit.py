@@ -9,25 +9,23 @@ names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
     'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
     'Rainer', 'Guillaume']
 
-def randline():
-    text = 'commit_messages.txt'
-    try:
-        f = file(text, 'rb')
-        return random.choice(f.readlines())
-    except IOError:
-        return 'Shit ...'
+messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
+messages = open(messages_file).readlines()
 
 def randname():
     return random.choice(names)
 
+def randmessage():
+    return random.choice(messages)
+
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
-        line = randline().replace("XNAMEX", randname())
-        self.render("index.html", message = line)
+        line = randmessage().replace("XNAMEX", randname())
+        self.render("index.html", message=line)
 
 class PlainTextHandler(tornado.web.RequestHandler):
     def get(self):
-        line = randline().replace("XNAMEX", randname())
+        line = randmessage().replace("XNAMEX", randname())
         self.write(line)
 
 settings = {
