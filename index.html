@@ -1,5 +1,5 @@
-<html> 
-    <head> 
+<html>
+    <head>
         <title>Commit Message Generator</title>
         <style>
 body {
@@ -21,12 +21,26 @@ body {
   text-align: left;
   margin: 1em auto;
 }
+.permalink {
+  font-size: 50%;
+  color: #ddd;
+}
+.permalink a {
+  text-decoration: none;
+  color: inherit;
+}
+.permalink a:hover {
+  text-decoration: underline;
+}
         </style>
-    </head> 
+    </head>
     <body>
         <div id="content">
-<p>{{ message }}</p>
+            <p>{{ message }}</p>
+            <p class="permalink">
+                [<a href="/{{ message_hash }}">permalink</a>]
+            </p>
         </div>
-    </body> 
+    </body>
 <!-- Like what you see? http://github.com/ngerakines/commitment -->
-</html> 
+</html>

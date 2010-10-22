@@ -1,6 +1,12 @@
 import os
 import sys
 import random
+
+try:
+    from hashlib import md5
+except ImportError:
+    from md5 import md5
+
 import tornado.httpserver
 import tornado.ioloop
 import tornado.web
@@ -10,37 +16,43 @@ names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
     'Rainer', 'Guillaume']
 
 messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
-messages = open(messages_file).readlines()
+messages = {}
 
-def randname():
-    return random.choice(names)
-
-def randmessage():
-    return random.choice(messages)
+# Create a hash table of all commit messages
+for line in open(messages_file).readlines():
+    messages[md5(line).hexdigest()] = line
 
 class MainHandler(tornado.web.RequestHandler):
-    def get(self):
-        message = randmessage().replace("XNAMEX", randname())
-        self.output_message(message)
+    def get(self, message_hash=None):
+        if not message_hash:
+            message_hash = random.choice(messages.keys())
+        elif message_hash not in messages:
+            raise tornado.web.HTTPError(404)
 
-    def output_message(self, message):
-        self.render('index.html', message=message)
+        message = messages[message_hash].replace(
+            'XNAMEX', random.choice(names))
+        self.output_message(message, message_hash)
+
+    def output_message(self, message, message_hash):
+        self.render('index.html', message=message, message_hash=message_hash)
 
 class PlainTextHandler(MainHandler):
-    def output_message(self, message):
+    def output_message(self, message, message_hash):
         self.set_header('Content-Type', 'text/plain')
         self.write(message)
 
 settings = {
-    "static_path": os.path.join(os.path.dirname(__file__), "static"),
+    'static_path': os.path.join(os.path.dirname(__file__), 'static'),
 }
 
 application = tornado.web.Application([
-    (r"/", MainHandler),
-    (r"/index.txt", PlainTextHandler),
+    (r'/', MainHandler),
+    (r'/([a-z0-9]+)', MainHandler),
+    (r'/index.txt', PlainTextHandler),
+    (r'/([a-z0-9]+)/index.txt', PlainTextHandler),
 ], **settings)
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     port = 8000
     if len(sys.argv) > 1:
         port = int(sys.argv[1])
