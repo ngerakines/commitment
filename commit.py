@@ -20,13 +20,16 @@ def randmessage():
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):
-        line = randmessage().replace("XNAMEX", randname())
-        self.render("index.html", message=line)
+        message = randmessage().replace("XNAMEX", randname())
+        self.output_message(message)
 
-class PlainTextHandler(tornado.web.RequestHandler):
-    def get(self):
-        line = randmessage().replace("XNAMEX", randname())
-        self.write(line)
+    def output_message(self, message):
+        self.render('index.html', message=message)
+
+class PlainTextHandler(MainHandler):
+    def output_message(self, message):
+        self.set_header('Content-Type', 'text/plain')
+        self.write(message)
 
 settings = {
     "static_path": os.path.join(os.path.dirname(__file__), "static"),
