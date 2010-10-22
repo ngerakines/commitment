@@ -40,9 +40,9 @@ application = tornado.web.Application([
 ], **settings)
 
 if __name__ == "__main__":
-	port = 8000
-	if sys.argv[1]:
-		port = int(sys.argv[1])
-	http_server = tornado.httpserver.HTTPServer(application)
-	http_server.listen(port)
-	tornado.ioloop.IOLoop.instance().start()
+    port = 8000
+    if sys.argv[1]:
+        port = int(sys.argv[1])
+    http_server = tornado.httpserver.HTTPServer(application)
+    http_server.listen(port)
+    tornado.ioloop.IOLoop.instance().start()
