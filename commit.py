@@ -10,6 +10,7 @@ except ImportError:
 import tornado.httpserver
 import tornado.ioloop
 import tornado.web
+from tornado.escape import xhtml_unescape
 
 names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
     'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
@@ -39,7 +40,7 @@ class MainHandler(tornado.web.RequestHandler):
 class PlainTextHandler(MainHandler):
     def output_message(self, message, message_hash):
         self.set_header('Content-Type', 'text/plain')
-        self.write(message)
+        self.write(xhtml_unescape(message).replace('<br/>', '\n'))
 
 settings = {
     'static_path': os.path.join(os.path.dirname(__file__), 'static'),
