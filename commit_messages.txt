@@ -30,7 +30,7 @@ WHO THE FUCK CAME UP WITH MAKE?
 This is a basic implementation that works.
 By works, I meant 'doesnt work'.  Works now..
 Last time I said it works? I was kidding.  Try this.
-Just stop reading these for a while, ok.. 
+Just stop reading these for a while, ok..
 Give me a break, it's 2am.  But it works now.
 Make that it works in 90% of the cases.  3:30.
 Ok, 5am, it works.  For real.
@@ -176,8 +176,8 @@ I should have had a V8 this morning.
 pay no attention to the man behind the curtain
 a few bits tried to escape, but we caught them
 This is the last time we let XNAMEX commit ascii porn in the comments.
-Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy. 
-workaround for ant being a pile of fail 
+Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
+workaround for ant being a pile of fail
 Don't push this commit
 rats
 squash me
@@ -204,3 +204,4 @@ Is there an achievement for this?
 I'm totally adding this to epic win. +300
 This really should not take 19 minutes to build.
 fixed the israeli-palestinian conflict
+SHIT ===> GOLD
