@@ -1,5 +1,5 @@
 /* TEAM */
-Your Title: Nick Gerakines
+Developer: Nick Gerakines
 Site: http://socklabs.com/
 Twitter: @ngerakines
 Location: Irvine, CA
