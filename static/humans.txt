@@ -1,0 +1,23 @@
+/* TEAM */
+Your Title: Nick Gerakines
+Site: http://socklabs.com/
+Twitter: @ngerakines
+Location: Irvine, CA
+
+/* THANKS */
+Name: github:JKtheSlacker
+Name: github:goj
+Name: github:tomekwojcik
+Name: github:lupomontero
+Name: github:foutrelis
+Name: github:minimal
+Name: github:loginx
+Name: Xavier Spriet
+Name: Pat Notz
+Name: github:makerbot
+
+/* SITE */
+Last update: 2011/05/31
+Standards: HTML5, CSS3
+Software: Vim, Git, Python
+
