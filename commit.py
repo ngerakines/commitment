@@ -32,6 +32,10 @@ class MainHandler(tornado.web.RequestHandler):
 
         message = messages[message_hash].replace(
             'XNAMEX', random.choice(names))
+
+        message = message.replace('XUPPERNAMEX', random.choice(names).upper())
+        message = message.replace('XLOWERNAMEX', random.choice(names).lower())
+
         self.output_message(message, message_hash)
 
     def output_message(self, message, message_hash):
