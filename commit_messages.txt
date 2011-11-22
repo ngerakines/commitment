@@ -1,6 +1,6 @@
 de-misunderestimating
-XNAMEX, WE WENT OVER THIS. EXPANDTAB.
-XNAMEX, WE WENT OVER THIS. C++ IO SUCKS.
+XUPPERNAMEX, WE WENT OVER THIS. EXPANDTAB.
+XUPPERNAMEX, WE WENT OVER THIS. C++ IO SUCKS.
 Some shit.
 add actual words
 I CAN HAZ COMMENTZ.
@@ -61,7 +61,7 @@ pgsql is more strict, increase the hackiness up to 11
 c&p fail
 syntax
 XNAMEX sucks
-XNAMEX SUCKS
+XUPPERNAMEX SUCKS
 fix
 someone fails and it isn't me
 Gross hack because XNAMEX doesn't know how to code
