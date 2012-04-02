@@ -219,3 +219,14 @@ more debug... who overwrote!
 FUCKING XUPPERNAMEX
 these confounded tests drive me nuts
 For great justice.
+QuickFix.
+oops - thought I got that one.
+removed echo and die statements, lolz.
+somebody keeps erasing my changes.
+doh.
+pam anderson is going to love me.
+added security.
+arrgghh... damn this thing for not working.
+jobs... steve jobs
+and a comma
+this is my quickfix branch and i will use to do my quickfixes
