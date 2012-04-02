@@ -10,7 +10,6 @@ Finished fondling.
 FONDLED THE CODE
 this is how we generate our shit.
 unh
-don't be retarded.
 It works!
 unionfind is no longer being molested.
 Well, it's doing something.
