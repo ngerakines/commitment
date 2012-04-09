@@ -231,3 +231,4 @@ jobs... steve jobs
 and a comma
 this is my quickfix branch and i will use to do my quickfixes
 Fix my stupidness
+and so the crazy refactoring proccess sees the sunlight after some months in the dark!
