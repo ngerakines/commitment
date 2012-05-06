@@ -233,3 +233,9 @@ this is my quickfix branch and i will use to do my quickfixes
 Fix my stupidness
 and so the crazy refactoring process sees the sunlight after some months in the dark!
 gave up and used tables.
+[Insert your commit message here. Be sure to make it descriptive.]
+Removed test case since code didn't pass QA
+removed tests since i can't make them green
+stuff
+more stuff
+Become a programmer, they said. It'll be fun, they said.
