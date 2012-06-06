@@ -239,3 +239,8 @@ removed tests since i can't make them green
 stuff
 more stuff
 Become a programmer, they said. It'll be fun, they said.
+Same as last commit with changes
+foo
+just checking if git is working properly...
+fixed some minor stuff, might need some additional work.
+just trolling the repo
