@@ -244,7 +244,7 @@ foo
 just checking if git is working properly...
 fixed some minor stuff, might need some additional work.
 just trolling the repo
-All your base are belong to us.
+All your codebase are belong to us.
 Somebody set up us the bomb.
 should work I guess...
 To be honest, I do not quite remember everything I changed here today. But it is all good, I tell ya.
