@@ -249,3 +249,20 @@ Somebody set up us the bomb.
 should work I guess...
 To be honest, I do not quite remember everything I changed here today. But it is all good, I tell ya.
 well crap.
+herpderp (redux)
+herpderp
+Derp
+derpherp
+Herping the derp
+sometimes you just herp the derp so hard it herpderps
+Derp. Fix missing constant post rename
+Herping the fucking derp right here and now.
+Derp, asset redirection in dev mode
+mergederp
+Derp search/replace fuckup
+Herpy dooves.
+Derpy hooves
+derp, helper method rename
+Herping the derp derp (silly scoping error)
+Herp derp I left the debug in there and forgot to reset errors.
+Reset error count between rows. herpderp
