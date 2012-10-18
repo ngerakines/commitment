@@ -33,6 +33,7 @@ Just stop reading these for a while, ok..
 Give me a break, it's 2am.  But it works now.
 Make that it works in 90% of the cases.  3:30.
 Ok, 5am, it works.  For real.
+
 FOR REAL.
 I don't know what these changes are supposed to accomplish but somebody told me to make them.
 I don't get paid enough for this shit.
@@ -266,3 +267,4 @@ derp, helper method rename
 Herping the derp derp (silly scoping error)
 Herp derp I left the debug in there and forgot to reset errors.
 Reset error count between rows. herpderp
+Fuck cancan in the arse
