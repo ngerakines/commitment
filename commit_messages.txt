@@ -268,3 +268,19 @@ Herp derp I left the debug in there and forgot to reset errors.
 Reset error count between rows. herpderp
 hey, what's that over there?!
 hey, look over there!
+It worked for me...
+Does not work.
+Either Hot Shit or Total Bollocks
+Arrrrgggg
+Don’t mess with Voodoo
+I expected something different.
+Todo!!!
+This is supposed to crash
+No changes after this point.
+I know, I know, this is not how I’m supposed to do it, but I can't think of something better.
+Don’t even try to refactor it.
+(c) Microsoft 1988
+Please no changes this time.
+Why The Fuck?
+We should delete this crap before shipping.
+Shit code!
