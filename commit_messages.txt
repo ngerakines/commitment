@@ -350,3 +350,14 @@ buenas those-things.
 Your commit is writing checks your merge can't cash.
 This branch is so dirty, even your mom can't clean it.
 wip
+WTF?! a pre-push hook? CI is for cowards!
+travis was not amused
+fucking travis ...
+Fix to make travis shut up
+let's see how travis likes this one
+Leeeeeroy traaaviis!
+totally leeroyed travis
+travis builds!! brb, singing about my feelings
+hey, i just forked you, and this is crazy, but here's my PR, so merge me maybe
+Should have thought twice about giving me write access XNAMEX.
+belch code
