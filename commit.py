@@ -11,6 +11,9 @@ import tornado.httpserver
 import tornado.ioloop
 import tornado.web
 from tornado.escape import xhtml_unescape
+from tornado.options import define, options
+
+define("port", default=5000, help="run on the given port", type=int)
 
 names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
     'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
@@ -58,9 +61,7 @@ application = tornado.web.Application([
 ], **settings)
 
 if __name__ == '__main__':
-    port = 8000
-    if len(sys.argv) > 1:
-        port = int(sys.argv[1])
+    tornado.options.parse_command_line()
     http_server = tornado.httpserver.HTTPServer(application)
-    http_server.listen(port)
+    http_server.listen(os.environ.get("PORT", 5000))
     tornado.ioloop.IOLoop.instance().start()
