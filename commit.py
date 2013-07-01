@@ -14,7 +14,7 @@ from tornado.escape import xhtml_unescape
 
 names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
     'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
-    'Rainer', 'Guillaume']
+    'Rainer', 'Guillaume', 'Kelan', 'David', 'John', 'Stephen']
 
 messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
 messages = {}
