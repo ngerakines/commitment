@@ -351,3 +351,5 @@ Your commit is writing checks your merge can't cash.
 This branch is so dirty, even your mom can't clean it.
 wip
 Revert "just testing, remember to revert"
+"Get that shit outta my master."
+Now we tell you your browser sucks in your native tongue.
