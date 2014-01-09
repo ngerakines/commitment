@@ -369,3 +369,7 @@ that's all folks
 Fucking submodule bull shit
 apparently i did something…
 bump to 0.0.3-dev:wq
+pep8 - cause I fell like doing a barrel roll
+pep8 fixer
+it is hump day _^_
+happy monday _ bleh _
