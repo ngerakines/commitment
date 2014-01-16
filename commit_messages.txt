@@ -373,3 +373,5 @@ pep8 - cause I fell like doing a barrel roll
 pep8 fixer
 it is hump day _^_
 happy monday _ bleh _
+after of this commit remember do a git reset hard
+
