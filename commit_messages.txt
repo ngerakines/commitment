@@ -375,3 +375,7 @@ it is hump day _^_
 happy monday _ bleh _
 after of this commit remember do a git reset hard
 someday I gonna kill someone for this shit...
+magic, have no clue but it works
+I am sorry
+dirty hack, have a better idea ?
+Code was clean until manager requested to fuck it up
