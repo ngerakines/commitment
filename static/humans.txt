@@ -47,9 +47,9 @@ Name: Jonathan Rouillard
 Name: Robert Gründler
 
 /* SITE */
-Last update: 2011/05/31
+Last update: 2014/04/17
 Standards: HTML5, CSS3
-Software: Vim, Git, Python
+Software: Vim, Git, Python, TextMate
 
 /* SOURCE */
 Source: https://github.com/ngerakines/commitment
