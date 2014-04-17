@@ -1,8 +1,8 @@
 /* TEAM */
 Developer: Nick Gerakines
-Site: http://socklabs.com/
+Site: http://ngerakines.me/
 Twitter: @ngerakines
-Location: Irvine, CA
+Location: Dayton, OH
 
 /* THANKS */
 Name: github:JKtheSlacker
@@ -15,6 +15,36 @@ Name: github:loginx
 Name: Xavier Spriet
 Name: Pat Notz
 Name: github:makerbot
+Name: github:htroyack
+Name: Pulkit Kathuria
+Name: github:serjoscha87
+Name: Hanlle Nicolás
+Name: Ryan Peck
+Name: Douglas Campos
+Name: github:wickedOne
+Name: Dimitris Baltas
+Name: Thomas Rausch
+Name: Michael Dougherty
+Name: Noval Agung Prayogo
+Name: Wahyu Kristianto
+Name: Lukasz
+Name: Jon Raphaelson
+Name: Michael Babker
+Name: github:javiermon
+Name: Masahiro Honma
+Name: Corey Quinn
+Name: Kevin Bongart
+Name: github:Rebell
+Name: Chris Rowe
+Name: Warun Kietduriyakul
+Name: github:mipearson
+Name: Alex (github:Qwertylex)
+Name: Nate Eagleson
+Name: Igor Galić
+Name: Eric Boh
+Name: Lukas Stampf
+Name: Jonathan Rouillard
+Name: Robert Gründler
 
 /* SITE */
 Last update: 2011/05/31
