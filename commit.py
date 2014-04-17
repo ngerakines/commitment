@@ -19,12 +19,16 @@ names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
     'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
     'Rainer', 'Guillaume', 'Kelan', 'David', 'John', 'Stephen']
 
+humans_file = os.path.join(os.path.dirname(__file__), 'static', 'humans.txt')
 messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
 messages = {}
 
 # Create a hash table of all commit messages
 for line in open(messages_file).readlines():
     messages[md5(line).hexdigest()] = line
+
+with open(humans_file) as humans_input:
+	humans_content = humans_input.read()
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self, message_hash=None):
@@ -49,6 +53,11 @@ class PlainTextHandler(MainHandler):
         self.set_header('Content-Type', 'text/plain')
         self.write(xhtml_unescape(message).replace('<br/>', '\n'))
 
+class HumansHandler(tornado.web.RequestHandler):
+    def get(self):
+        self.set_header('Content-Type', 'text/plain')
+        self.write(humans_content)
+
 settings = {
     'static_path': os.path.join(os.path.dirname(__file__), 'static'),
 }
@@ -58,6 +67,7 @@ application = tornado.web.Application([
     (r'/([a-z0-9]+)', MainHandler),
     (r'/index.txt', PlainTextHandler),
     (r'/([a-z0-9]+)/index.txt', PlainTextHandler),
+    (r'/humans.txt', HumansHandler),
 ], **settings)
 
 if __name__ == '__main__':
