@@ -380,3 +380,11 @@ I am sorry
 dirty hack, have a better idea ?
 Code was clean until manager requested to fuck it up
  - Temporary commit.
+:(:(
+...
+GIT :/
+stopped caring 10 commits ago
+Testing in progress ;)
+Fixed Bug
+Fixed errors
+TODO: write meaningful commit message
