@@ -387,4 +387,5 @@ stopped caring 10 commits ago
 Testing in progress ;)
 Fixed Bug
 Fixed errors
+Push poorly written test can down the road another ten years
 TODO: write meaningful commit message
