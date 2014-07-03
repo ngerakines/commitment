@@ -388,4 +388,5 @@ Testing in progress ;)
 Fixed Bug
 Fixed errors
 Push poorly written test can down the road another ten years
+commented out failing tests
 TODO: write meaningful commit message
