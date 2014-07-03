@@ -45,6 +45,7 @@ Name: Eric Boh
 Name: Lukas Stampf
 Name: Jonathan Rouillard
 Name: Robert Gründler
+Name: AJ Henriques (github:ajhenriques)
 
 /* SITE */
 Last update: 2014/04/17
