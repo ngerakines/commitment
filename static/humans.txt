@@ -46,6 +46,7 @@ Name: Lukas Stampf
 Name: Jonathan Rouillard
 Name: Robert Gründler
 Name: AJ Henriques (github:ajhenriques)
+Name: Maciej Orliński (github:originalnick)
 
 /* SITE */
 Last update: 2014/04/17
