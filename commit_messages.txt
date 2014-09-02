@@ -397,3 +397,25 @@ TODO: write meaningful commit message
 Pig
 SOAP is a piece of shit
 did everything
+oops, how the fuck did i do that?
+that's better
+that's betterer
+hopefully didn't fuck this up
+hopefully didn't fuck this up again
+did things
+few more things
+removing some things
+so many things
+testing things
+Adding some info
+Fixing dead stuff
+adding a thing
+Actually adding some content
+apples and oranges
+Adding widget for the hell of it.
+Woops, missed a comment block.
+ACTIVATE
+defaulting
+irrelevant minor gui modification (It's been bothering me)
+commenting out the windows deps that were accidently commited
+accidentally a comma
