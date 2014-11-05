@@ -48,6 +48,7 @@ Name: Robert Gründler
 Name: AJ Henriques (github:ajhenriques)
 Name: Maciej Orliński (github:originalnick)
 Name: David Turenne (github:Ociidii-Works)
+Name: Sepehr Lajevardi (github:sepehr)
 
 /* SITE */
 Last update: 2014/04/17
