@@ -25,8 +25,8 @@ Name: github:wickedOne
 Name: Dimitris Baltas
 Name: Thomas Rausch
 Name: Michael Dougherty
-Name: Noval Agung Prayogo
-Name: Wahyu Kristianto
+Name: Noval Agung Prayogo (github:novalagung)
+Name: Wahyu Kristianto (github:kristories)
 Name: Lukasz
 Name: Jon Raphaelson
 Name: Michael Babker
