@@ -17,7 +17,8 @@ define("port", default=5000, help="run on the given port", type=int)
 
 names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
     'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
-    'Rainer', 'Guillaume', 'Kelan', 'David', 'John', 'Stephen']
+    'Rainer', 'Guillaume', 'Kelan', 'David', 'John', 'Stephen', 'Tom', 'Steven',
+    'Jen', 'Marcus', 'Edy', 'Rachel']
 
 humans_file = os.path.join(os.path.dirname(__file__), 'static', 'humans.txt')
 messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
