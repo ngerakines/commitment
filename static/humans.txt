@@ -50,6 +50,7 @@ Name: Maciej Orliński (github:originalnick)
 Name: David Turenne (github:Ociidii-Works)
 Name: Sepehr Lajevardi (github:sepehr)
 Name: Jefferson Daniel (github:jdsolucoes)
+Name: Jiang Chen (github:JC6)
 
 /* SITE */
 Last update: 2014/04/17
