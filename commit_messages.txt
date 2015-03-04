@@ -412,3 +412,6 @@ I should get a raise for this.
 Done, to whoever merges this, good luck.
 Not one conflict, today was a good day.
 First Blood
+Fixed the fuck out of #526!
+I'm too old for this shit!
+One little whitespace gets its very own commit! Oh, life is so erratic!
