@@ -416,3 +416,5 @@ Fixed the fuck out of #526!
 I'm too old for this shit!
 One little whitespace gets its very own commit! Oh, life is so erratic!
 Copy-pasted code from stackoverflow, many upvotes, must work!
+Changed spaces to tabs, /**/ to //. Any more guidelines?
+
