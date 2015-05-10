@@ -418,3 +418,5 @@ One little whitespace gets its very own commit! Oh, life is so erratic!
 Copy-pasted code from stackoverflow, many upvotes, must work!
 Changed spaces to tabs, /**/ to //. Any more guidelines?
 Got rid of jQuery, images, extra fonts and stuff. Nothing works. But it's lightning fast now!
+This time for sure!
+
