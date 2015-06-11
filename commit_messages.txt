@@ -1,4 +1,4 @@
-One does not simply merge into master
+﻿One does not simply merge into master
 Merging the merge
 Another bug bites the dust
 de-misunderestimating
@@ -417,3 +417,8 @@ First Blood
 Fixed the fuck out of #526!
 I'm too old for this shit!
 One little whitespace gets its very own commit! Oh, life is so erratic!
+Copy-pasted code from stackoverflow, many upvotes, must work!
+Changed spaces to tabs, /**/ to //. Any more guidelines?
+Got rid of jQuery, images, extra fonts and stuff. Nothing works. But it's lightning fast now!
+This time for sure!
+
