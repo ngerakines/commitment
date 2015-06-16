@@ -12,6 +12,7 @@ Name: github:lupomontero
 Name: github:foutrelis
 Name: github:minimal
 Name: github:loginx
+Name: github:coopermaruyama
 Name: Xavier Spriet
 Name: Pat Notz
 Name: github:makerbot
