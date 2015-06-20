@@ -53,6 +53,7 @@ Name: Sepehr Lajevardi (github:sepehr)
 Name: Jefferson Daniel (github:jdsolucoes)
 Name: Jiang Chen (github:JC6)
 Name: Pascal Querner (github:pquerner)
+Name: github:L1NT
 
 /* SITE */
 Last update: 2014/04/17
