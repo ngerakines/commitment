@@ -1,4 +1,4 @@
-One does not simply merge into master
+﻿One does not simply merge into master
 Merging the merge
 Another bug bites the dust
 de-misunderestimating
@@ -113,7 +113,7 @@ Fixed a bug cause XNAMEX said to
 Use a real JS construct, WTF knows why this works in chromium.
 Added a banner to the default admin page. Please have mercy on me =(
 needs more cow bell
-Switched off unit test X because the build had to go out now and there was no time to fix it properly.
+Switched off unit test XNUM15X because the build had to go out now and there was no time to fix it properly.
 Updated
 I must sleep... it's working... in just three hours...
 I was wrong...
@@ -388,7 +388,7 @@ Code was clean until manager requested to fuck it up
 :(:(
 ...
 GIT :/
-stopped caring 10 commits ago
+stopped caring XNUM8,23X commits ago
 Testing in progress ;)
 Fixed Bug
 Fixed errors
@@ -414,9 +414,12 @@ I should get a raise for this.
 Done, to whoever merges this, good luck.
 Not one conflict, today was a good day.
 First Blood
-Fixed the fuck out of #526!
+Fixed the fuck out of #XNUMX!
 I'm too old for this shit!
 One little whitespace gets its very own commit! Oh, life is so erratic!
 Trust me, it's not badly written. It's just way above your head.
 copy and paste is not a design pattern
 This bunny should be killed.
+It only compiles every XNUM2,5X tries... good luck.
+This will definitely break in 20XNUM20,89X (TODO)
+Issue #XNUM10X is now Issue #XNUM30X
