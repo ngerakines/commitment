@@ -26,8 +26,9 @@ messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
 messages = {}
 
 # Create a hash table of all commit messages
-for line in open(messages_file).readlines():
-    messages[md5(line).hexdigest()] = line
+with open(messages_file) as messages_input:
+    for line in messages_input.readlines():
+        messages[md5(line).hexdigest()] = line
 
 with open(humans_file) as humans_input:
     humans_content = humans_input.read()
