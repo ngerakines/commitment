@@ -30,7 +30,14 @@ for line in open(messages_file).readlines():
     messages[md5(line).hexdigest()] = line
 
 with open(humans_file) as humans_input:
-	humans_content = humans_input.read()
+    humans_content = humans_input.read()
+    for line in humans_content.split("\n"):
+        if "Name:" in line:
+            data = line[6:].rstrip()
+            if data.find("github:") == 0:
+                names.append(data[7:])
+            else:
+                names.append(data.split(" ")[0])
 
 num_re = re.compile(r"XNUM([0-9,]*)X")
 

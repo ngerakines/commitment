@@ -1,13 +1,28 @@
 import random
 import re
+import os
 import sys
 
 messages = open("commit_messages.txt").read().split('\n')
+
+humans = open("static/humans.txt").read().split('\n')
 
 names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
     'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
     'Rainer', 'Guillaume', 'Kelan', 'David', 'John', 'Stephen', 'Tom', 'Steven',
     'Jen', 'Marcus', 'Edy', 'Rachel']
+
+humans_file = os.path.join(os.path.dirname(__file__), 'static', 'humans.txt')
+
+for line in open(humans_file).readlines():
+    if "Name:" in line:
+        data = line[6:].rstrip()
+        if (data.find("github:") == 0):
+            names.append(data[7:])
+        else:
+            names.append(data.split(" ")[0])
+
+print "names", names
 
 num_re = re.compile(r"XNUM([0-9,]*)X")
 
