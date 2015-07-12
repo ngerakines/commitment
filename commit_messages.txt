@@ -420,3 +420,4 @@ One little whitespace gets its very own commit! Oh, life is so erratic!
 Trust me, it's not badly written. It's just way above your head.
 copy and paste is not a design pattern
 This bunny should be killed.
+Delete toto.png
