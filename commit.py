@@ -77,11 +77,14 @@ class MainHandler(tornado.web.RequestHandler):
         if not message_hash:
             message_hash = random.choice(messages.keys())
         elif message_hash not in messages:
+            state = random.getstate()
             try:
                 random.seed(int(message_hash, 16))
                 message_hash = random.choice(messages.keys())
             except:
                 raise tornado.web.HTTPError(404)
+            finally:
+                random.setstate(state)
 
         message = fill_line(messages[message_hash])
 
