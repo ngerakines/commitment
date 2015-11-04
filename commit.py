@@ -74,19 +74,22 @@ def fill_line(message):
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self, message_hash=None):
+        message = ''
         if not message_hash:
             message_hash = random.choice(messages.keys())
+            message = fill_line(messages[message_hash])
         elif message_hash not in messages:
             state = random.getstate()
             try:
-                random.seed(int(message_hash, 16))
+                random.seed(message_hash)
                 message_hash = random.choice(messages.keys())
+                message = fill_line(messages[message_hash])  # use seed value for random selection
             except:
                 raise tornado.web.HTTPError(404)
             finally:
                 random.setstate(state)
-
-        message = fill_line(messages[message_hash])
+        else:
+            message = fill_line(messages[message_hash])
 
         self.output_message(message, message_hash)
 
