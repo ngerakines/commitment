@@ -22,7 +22,7 @@ for line in open(humans_file).readlines():
         else:
             names.append(data.split(" ")[0])
 
-print "names", names
+print("names", names)
 
 num_re = re.compile(r"XNUM([0-9,]*)X")
 
@@ -60,4 +60,4 @@ def get(message=None):
     return fill_line(message or random.choice(messages))
 
 if __name__ == '__main__':
-    print get(sys.argv[1] or None)
+    print(get(sys.argv[1]if len(sys.argv) > 1 else None))
