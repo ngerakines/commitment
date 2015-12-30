@@ -28,7 +28,7 @@ messages = {}
 # Create a hash table of all commit messages
 with open(messages_file) as messages_input:
     for line in messages_input.readlines():
-        messages[md5(line).hexdigest()] = line
+        messages[md5(line.encode()).hexdigest()] = line
 
 with open(humans_file) as humans_input:
     humans_content = humans_input.read()
@@ -75,7 +75,7 @@ def fill_line(message):
 class MainHandler(tornado.web.RequestHandler):
     def get(self, message_hash=None):
         if not message_hash:
-            message_hash = random.choice(messages.keys())
+            message_hash = random.choice(list(messages.keys()))
         elif message_hash not in messages:
             raise tornado.web.HTTPError(404)
 
