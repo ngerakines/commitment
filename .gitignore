@@ -1,0 +1,14 @@
+### JetBrains modified    =~=~=~=~=~=~=~=~=~=~=~=
+# Covers JetBrains IDEs
+
+*.iml
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
+
+# Created by .ignore support plugin (hsz.mobi)
+###                       =~=~=~=~=~=~=~=~=~=~=~=
