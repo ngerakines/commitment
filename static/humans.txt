@@ -59,6 +59,8 @@ Name: Lyntor Paul Figueroa (github:KazeFlame)
 Name: Wade Urry (github:iWader)
 Name: Jan Raasch (github:janraasch)
 Name: Fabian Met (github:Rackor3000)
+Name: Florian Beer (github:florianbeer)
+Name: Alashov Berkeli (github:alashow)
 
 /* SITE */
 Last update: 2014/04/17

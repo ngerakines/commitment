@@ -430,3 +430,18 @@ PEBKAC
 ID:10T Error
 yolo push
 Fuck it, YOLO!
+what the hell happened here
+fixed shit that havent been fixed in last commit
+Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+This is where it all begins...
+Commit committed
+Version control is awful
+COMMIT ALL THE FILES!
+The same thing we do every night, Pinky - try to take over the world!
+Lock S-foils in attack position
+This commit is a lie
+I'll explain when you're older!
+Here be Dragons
+Reinventing the wheel. Again.
+This is not the commit message you are looking for
+Batman! (this commit has no parents)
