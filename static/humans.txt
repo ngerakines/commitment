@@ -62,6 +62,7 @@ Name: Fabian Met (github:Rackor3000)
 Name: Rupert Rutland (github:rupertrutland)
 Name: Florian Beer (github:florianbeer)
 Name: Alashov Berkeli (github:alashow)
+Name: Stefano Baghino (github:stefanobaghino)
 
 /* SITE */
 Last update: 2014/04/17
