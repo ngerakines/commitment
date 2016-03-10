@@ -63,6 +63,7 @@ Name: Rupert Rutland (github:rupertrutland)
 Name: Florian Beer (github:florianbeer)
 Name: Alashov Berkeli (github:alashow)
 Name: Stefano Baghino (github:stefanobaghino)
+Name: Wes Lindsay (github:weslindsay)
 
 /* SITE */
 Last update: 2014/04/17
