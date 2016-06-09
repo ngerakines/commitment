@@ -340,6 +340,7 @@ fix
 fix /sigh
 fix bug, for realz
 fix some fucking errors
+fix tpyo
 fixed conflicts (LOL merge -s ours; push -f)
 fixed errors in the previous commit
 fixed mistaken bug
@@ -435,6 +436,7 @@ that coulda been bad
 that's all folks
 these confounded tests drive me nuts
 things occurred
+third time's a charm
 this doesn't really make things faster, but I tried
 this is how we generate our shit.
 this is my quickfix branch and i will use to do my quickfixes
