@@ -66,6 +66,7 @@ Name: Stefano Baghino (github:stefanobaghino)
 Name: Wes Lindsay (github:weslindsay)
 Name: Alex Zhu (github:azhu2)
 Name: github:opatut
+Name: Simone Picciani (github:zanza00)
 
 /* SITE */
 Last update: 2014/04/17
