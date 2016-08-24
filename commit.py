@@ -74,12 +74,22 @@ def fill_line(message):
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self, message_hash=None):
+        message = ''
         if not message_hash:
             message_hash = random.choice(messages.keys())
+            message = fill_line(messages[message_hash])
         elif message_hash not in messages:
-            raise tornado.web.HTTPError(404)
-
-        message = fill_line(messages[message_hash])
+            state = random.getstate()
+            try:
+                random.seed(message_hash)
+                message_hash = random.choice(messages.keys())
+                message = fill_line(messages[message_hash])  # use seed value for random selection
+            except:
+                raise tornado.web.HTTPError(404)
+            finally:
+                random.setstate(state)
+        else:
+            message = fill_line(messages[message_hash])
 
         self.output_message(message, message_hash)
 
@@ -102,9 +112,9 @@ settings = {
 
 application = tornado.web.Application([
     (r'/', MainHandler),
-    (r'/([a-z0-9]+)', MainHandler),
+    (r'/([a-f0-9]{32})', MainHandler),
     (r'/index.txt', PlainTextHandler),
-    (r'/([a-z0-9]+)/index.txt', PlainTextHandler),
+    (r'/([a-f0-9]{32})/index.txt', PlainTextHandler),
     (r'/humans.txt', HumansHandler),
 ], **settings)
 
