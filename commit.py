@@ -109,10 +109,11 @@ settings = {
 application = tornado.web.Application([
     (r'/', MainHandler),
     (r'/([a-z0-9]+)', MainHandler),
+    (r'/index.json', JsonHandler),
+    (r'/([a-z0-9]+)/index.json', JsonHandler),
     (r'/index.txt', PlainTextHandler),
     (r'/([a-z0-9]+)/index.txt', PlainTextHandler),
     (r'/humans.txt', HumansHandler),
-    (r'/index.json', JsonHandler),
 ], **settings)
 
 if __name__ == '__main__':
