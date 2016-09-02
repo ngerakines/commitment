@@ -2,6 +2,7 @@ import os
 import sys
 import random
 import re
+import json
 
 try:
     from hashlib import md5
@@ -91,6 +92,11 @@ class PlainTextHandler(MainHandler):
         self.set_header('Content-Type', 'text/plain')
         self.write(xhtml_unescape(message).replace('<br/>', '\n'))
 
+class JsonHandler(MainHandler):
+    def output_message(self, message, message_hash):
+        self.set_header('Content-Type', 'application/json')
+        self.write(json.dumps({'commit_message':message.replace('\n', ''), 'permalink': self.request.protocol + "://" + self.request.host + '/' + message_hash }))
+
 class HumansHandler(tornado.web.RequestHandler):
     def get(self):
         self.set_header('Content-Type', 'text/plain')
@@ -106,6 +112,7 @@ application = tornado.web.Application([
     (r'/index.txt', PlainTextHandler),
     (r'/([a-z0-9]+)/index.txt', PlainTextHandler),
     (r'/humans.txt', HumansHandler),
+    (r'/index.json', JsonHandler),
 ], **settings)
 
 if __name__ == '__main__':
