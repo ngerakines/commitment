@@ -15,6 +15,7 @@
 A fix I believe, not like I tested or anything
 A long time ago, in a galaxy far far away...
 ALL SORTS OF THINGS
+Add Sandbox
 Added a banner to the default admin page. Please have mercy on me =(
 Added missing file in previous commit
 Added translation.
@@ -74,7 +75,9 @@ Fixed Bug
 Fixed a bug cause XNAMEX said to
 Fixed a bug in NoteLineCount... not seriously...
 Fixed a little bug...
+Fixed compilation errors
 Fixed errors
+Fixed so the code compiles
 Fixed the build.
 Fixed the fuck out of #XNUMX!
 Fixed unnecessary bug.
@@ -118,6 +121,7 @@ I don't know what the hell I was thinking.
 I don't know what these changes are supposed to accomplish but somebody told me to make them.
 I don't know why. Just move on.
 I expected something different.
+I forgot to commit... So here you go.
 I had a cup of tea and now it's fixed
 I hate this fucking language.
 I honestly wish I could remember what was going on here...
@@ -174,6 +178,7 @@ Merge pull my finger request
 Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
 Merging the merge
 Minor updates
+Misc. fixes
 More ignore
 Moved something to somewhere... goodnight...
 My bad
@@ -195,6 +200,7 @@ Only Tom Cruise knows why.
 PEBKAC
 Pig
 Please no changes this time.
+Popping stash
 Programming the flux capacitor
 Push poorly written test can down the road another ten years
 QuickFix.
@@ -223,6 +229,7 @@ Somebody set up us the bomb.
 Something fixed
 Spinning up the hamster...
 Still can't get this right...
+Stuff
 Switched off unit test XNUM15X because the build had to go out now and there was no time to fix it properly.
 TDD: 1, Me: 0
 TODO: write meaningful commit message
@@ -254,6 +261,7 @@ Too tired to write descriptive message
 Trust me, it's not badly written. It's just way above your head.
 Trying to fake a conflict
 Ugh. Bad rebase.
+Update .gitignore
 Updated
 Updated build targets.
 Use a real JS construct, WTF knows why this works in chromium.
@@ -436,6 +444,7 @@ tagging release w.t.f.
 that coulda been bad
 that's all folks
 these confounded tests drive me nuts
+these guys are flipped
 things occurred
 third time's a charm
 this doesn't really make things faster, but I tried
@@ -460,11 +469,3 @@ work in progress
 workaround for ant being a pile of fail
 yo recipes
 yolo push
-Popping stash
-Stuff
-I forgot to commit... So here you go.
-Add Sandbox
-Misc. fixes
-Fixed compilation errors
-Update .gitignore
-Fixed so the code compiles

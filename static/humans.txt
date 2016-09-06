@@ -68,6 +68,7 @@ Name: Alex Zhu (github:azhu2)
 Name: github:opatut
 Name: Simone Picciani (github:zanza00)
 Name: github:cube5
+Name: James Robert Perih (github:hotdang-ca)
 
 /* SITE */
 Last update: 2014/04/17
