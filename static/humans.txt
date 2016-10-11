@@ -69,6 +69,7 @@ Name: github:opatut
 Name: Simone Picciani (github:zanza00)
 Name: github:cube5
 Name: James Robert Perih (github:hotdang-ca)
+Name: Igor Santos (github:igorsantos07)
 
 /* SITE */
 Last update: 2014/04/17
