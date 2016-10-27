@@ -383,6 +383,7 @@ TDD: 1, Me: 0
 Test commit. Please ignore
 Testing in progress ;)
 that coulda been bad
+That explains that....
 That last commit message about silly mistakes pales in comparision to this one
 that's all folks
 That's just how I roll
