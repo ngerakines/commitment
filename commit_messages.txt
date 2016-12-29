@@ -153,6 +153,7 @@ Fuck it, YOLO!
 fuckup.
 Future self, please forgive me and don't hit me with the baseball bat again!
 gave up and used tables.
+General commit (no IDs open) - Modifications for bad implementations
 giggle.
 GIT :/
 Give me a break, it's 2am.  But it works now.
