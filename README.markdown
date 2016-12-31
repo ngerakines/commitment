@@ -10,7 +10,7 @@ git config --global alias.yolo '!git commit -m "$(curl -s whatthecommit.com/inde
 
 # License
 
-Copyright (c) 2010 Nick Gerakines <nick@gerakines.net>
+Copyright (c) 2017 Nick Gerakines <nick@gerakines.net>
 
 This project and its contents are open source under the MIT license.
 
