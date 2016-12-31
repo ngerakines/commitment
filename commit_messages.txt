@@ -4,6 +4,7 @@
 ...
 640K ought to be enough for anybody
 8==========D
+Abandon all hope, ye who enter here.
 add actual words
 Added a banner to the default admin page. Please have mercy on me =(
 Added missing file in previous commit
@@ -98,6 +99,7 @@ Do things better, faster, stronger
 Either Hot Shit or Total Bollocks
 epic
 eppic fail XNAMEX
+Errare humanum est.
 extra debug for stuff module
 fail
 Feed. You. Stuff. No time.
@@ -420,6 +422,7 @@ Too tired to write descriptive message
 totally more readable
 To those I leave behind, good luck!
 touched...
+Trust me, I'm an engineer!... What the f*ck did just happened here?
 Trust me, it's not badly written. It's just way above your head.
 Trying to fake a conflict
 tunning
@@ -449,6 +452,7 @@ Whee, good night.
 Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
 Who knows...
 Who knows WTF?!
+Who Let the Bugs Out??
 whooooooooooooooooooooooooooo
 WHO THE FUCK CAME UP WITH MAKE?
 Why The Fuck?
