@@ -72,6 +72,7 @@ Name: James Robert Perih (github:hotdang-ca)
 Name: Igor Santos (github:igorsantos07)
 Name: Jordan Finnigan (github:JadoJodo)
 Name: Christian Froehler (github:generatorr)
+Name: Fabian Kochem (github:vortec)
 
 /* SITE */
 Last update: 2014/04/17
