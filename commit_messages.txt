@@ -495,3 +495,6 @@ GAAAARGH
 You get a commit, you get a commit, everyone gets a commit!
 What?!? It's 20:00 already?!?
 Deleting all documentation.
+Ain't nobody got time to write commit messages!
+Good luck reading this code.
+Does anyone knows any good porn sites?
