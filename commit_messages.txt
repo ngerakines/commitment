@@ -16,6 +16,7 @@ Add Sandbox
 a few bits tried to escape, but we caught them
 A fix I believe, not like I tested or anything
 after of this commit remember do a git reset hard
+Ain't nobody got time to write commit messages!
 ajax-loader hotness, oh yeah
 ALL SORTS OF THINGS
 All your codebase are belong to us.
@@ -76,6 +77,7 @@ DEAL WITH IT
 debug line test
 debugo
 debug suff
+Deleting all documentation.
 de-misunderestimating
 Derp
 Derp, asset redirection in dev mode
@@ -86,13 +88,16 @@ Derp search/replace fuckup
 Derpy hooves
 diaaaaaazeeeeeeeeeepam
 did everything
-dirty hack, have a better idea ?
+dirty hack, have a better idea?
+Documented some code.
 Does anyone read this? I'll be at the coffee shop accross the street.
+Does anyone knows any good porn sites?
 Does not work.
 Does this work
 doh.
 done. going to bed now.
 Done, to whoever merges this, good luck.
+DO NOT WRITE THIS AS A COMMIT MESSAGE!
 Don’t even try to refactor it.
 Don’t mess with Voodoo
 Don't push this commit
@@ -155,12 +160,16 @@ FUCKING XUPPERNAMEX
 Fuck it, YOLO!
 fuckup.
 Future self, please forgive me and don't hit me with the baseball bat again!
+GAAAARGH
 gave up and used tables.
 General commit (no IDs open) - Modifications for bad implementations
+"Get that shit outta my master."
 giggle.
+git push origin master -f
 GIT :/
 Give me a break, it's 2am.  But it works now.
 Glue. Match sticks. Paper. Build script!
+Good luck reading this code.
 #GrammarNazi
 grmbl
 Gross hack because XNAMEX doesn't know how to code
@@ -182,6 +191,7 @@ hey, look over there!
 hey, what's that over there?!
 Hide those navs, boi!
 hmmm
+Hmmm, what shall I put as a commit message?
 hoo boy
 I __ a word
 I am even stupider than I thought
@@ -217,6 +227,7 @@ I'll explain when you're older!
 I'm human
 I'm hungry
 I'm just a grunt. Don't blame me for this awful PoS.
+I'm out of this shit!
 I'M PUSHING.
 I'm sorry.
 I'm too foo for this bar
@@ -233,6 +244,8 @@ I should have had a V8 this morning.
 Issue #XNUM10X is now Issue #XNUM30X
 Is there an achievement for this?
 Is there an award for this?
+I swear I am not drunk!
+I swear I am not high!
 It compiles! Ship it!
 It'd be nice if type errors caused the compiler to issue a type error
 i think i fixed a bug...
@@ -265,6 +278,8 @@ lol
 LOL!
 lol digg
 lolwhat?
+Lorem ipsum
+Lorem ipsum dolor sit amet
 lots and lots of changes
 lots of changes after a lot of time
 LOTS of changes. period
@@ -304,6 +319,8 @@ Not one conflict, today was a good day.
 Not sure why
 Now added delete for real
 Now it's all microservices, I hope the fad persists.
+Now we tell you your browser sucks in your native tongue.
+NSA backdoor - ignore
 Obligatory placeholder commit message
 Ok, 5am, it works.  For real.
 omg what have I done?
@@ -390,6 +407,7 @@ that coulda been bad
 That last commit message about silly mistakes pales in comparision to this one
 that's all folks
 That's just how I roll
+The file changed itself, i dont know what i did!
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
 The same thing we do every night, Pinky - try to take over the world!
 these confounded tests drive me nuts
@@ -446,6 +464,7 @@ Well the book was obviously wrong.
 We should delete this crap before shipping.
 Whatever.
 Whatever will be, will be 8{
+What?!? It's 20:00 already?!?
 ??! what the ...
 what the hell happened here
 Whee.
@@ -476,25 +495,7 @@ yet another quality commit
 yolo push
 yo recipes
 You can't see it, but I'm making a very angry face right now
-Your commit is writing checks your merge can't cash.
-You should have trusted me.
-NSA backdoor - ignore
-"Get that shit outta my master."
-Now we tell you your browser sucks in your native tongue.
-The file changed itself, i dont know what i did!
-I swear I am not drunk!
-Documented some code.
-git push origin master -f
-DO NOT PUT THIS AS A COMMIT MESSAGE!
-Lorem ipsum
-Lorem ipsum dolor sit amet
-Hmmm, what shall I put as a commit message?
-I'm out of this shit!
 You can't get merge conflict if you "push -f"!
-GAAAARGH
+Your commit is writing checks your merge can't cash.
 You get a commit, you get a commit, everyone gets a commit!
-What?!? It's 20:00 already?!?
-Deleting all documentation.
-Ain't nobody got time to write commit messages!
-Good luck reading this code.
-Does anyone knows any good porn sites?
+You should have trusted me.
