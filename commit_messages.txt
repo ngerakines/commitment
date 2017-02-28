@@ -481,3 +481,15 @@ You should have trusted me.
 NSA backdoor - ignore
 "Get that shit outta my master."
 Now we tell you your browser sucks in your native tongue.
+The file changed itself, i dont know what i did!
+I swear I am not drunk!
+Documented some code.
+git push origin master -f
+DO NOT PUT THIS AS A COMMIT MESSAGE!
+Lorem ipsum
+Lorem ipsum dolor sit amet
+Hmmm, what shall I put as a commit message?
+I'm out of this shit!
+You can't get merge conflict if you "push -f"!
+GAAAARGH
+You get a commit, you get a commit, everyone gets a commit!
