@@ -494,3 +494,4 @@ You can't get merge conflict if you "push -f"!
 GAAAARGH
 You get a commit, you get a commit, everyone gets a commit!
 What?!? It's 20:00 already?!?
+Deleting all documentation.
