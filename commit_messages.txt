@@ -305,6 +305,7 @@ Not sure why
 Now added delete for real
 Now it's all microservices, I hope the fad persists.
 Obligatory placeholder commit message
+Oh no
 Ok, 5am, it works.  For real.
 omg what have I done?
 One does not simply merge into master
