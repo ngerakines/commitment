@@ -147,6 +147,7 @@ formatted all
 FOR REAL.
 For real, this time.
 For the sake of my sanity, just ignore this...
+freemasonry
 Friday 5pm
 Fucking egotistical bastard. adds expandtab to vimrc
 Fucking submodule bull shit
@@ -393,6 +394,7 @@ That last commit message about silly mistakes pales in comparision to this one
 that's all folks
 That's just how I roll
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
+the magic is real
 The same thing we do every night, Pinky - try to take over the world!
 these confounded tests drive me nuts
 these guys are flipped
