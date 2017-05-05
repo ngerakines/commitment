@@ -5,6 +5,7 @@
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
 (c) Microsoft 1988
 -m \'So I hear you like commits ...\'
+:q!
 .
 ...
 /sigh
