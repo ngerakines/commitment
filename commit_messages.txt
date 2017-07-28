@@ -5,59 +5,59 @@
 640K ought to be enough for anybody
 8==========D
 Abandon all hope, ye who enter here.
-add actual words
+Add actual words
 Added a banner to the default admin page. Please have mercy on me =(
 Added missing file in previous commit
-added security.
-added some filthy stuff
-added super-widget 2.0.
+Added security.
+Added some filthy stuff
+Added super-widget 2.0.
 Added translation.
 Add Sandbox
-a few bits tried to escape, but we caught them
+A few bits tried to escape, but we caught them
 A fix I believe, not like I tested or anything
-after of this commit remember do a git reset hard
-ajax-loader hotness, oh yeah
+After of this commit remember do a git reset hard
+Ajax-loader hotness, oh yeah
 ALL SORTS OF THINGS
 All your codebase are belong to us.
 A long time ago, in a galaxy far far away...
-and a comma
+And a comma
 And a commit that I don't know the reason of...
-and so the crazy refactoring process sees the sunlight after some months in the dark!
-another big bag of changes
+And so the crazy refactoring process sees the sunlight after some months in the dark!
+Another big bag of changes
 Another bug bites the dust
 Another commit to keep my CAN streak going.
-apparently i did something…
+Apparently i did something…
 Apparently works-for-me is a crappy excuse.
 Argh! About to give up :(
-arrgghh... damn this thing for not working.
-arrrggghhhhh fixed!
+Arrgghh... damn this thing for not working.
+Arrrggghhhhh fixed!
 Arrrrgggg
-asdfasdfasdfasdfasdfasdfadsf
-assorted changes
+Asdfasdfasdfasdfasdfasdfadsf
+Assorted changes
 At times like this I wish I was a Garbage Man.
-bara bra grejjor
+Bara bra grejjor
 Batman! (this commit has no parents)
 Become a programmer, they said. It'll be fun, they said.
 Best commit ever
-better grepping
-better ignores
-bifurcation
-bla
+Better grepping
+Better ignores
+Bifurcation
+Bla
 Blaming regex.
-breathe, =, breathe
+Breathe, =, breathe
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
-buenas those-things.
-bug fix
-bugger
-bump to 0.0.3-dev:wq
+Buenas those-things.
+Bug fix
+Bugger
+Bump to 0.0.3-dev:wq
 By works, I meant 'doesnt work'.  Works now..
-changed things...
-changes
-clarify further the brokenness of C++. why the fuck are we using C++?
+Changed things...
+Changes
+Clarify further the brokenness of C++. why the fuck are we using C++?
 (c) Microsoft 1988
 Code was clean until manager requested to fuck it up
-commented out failing tests
-commit
+Commented out failing tests
+Commit
 COMMIT ALL THE FILES!
 Commit committed
 Commit committed....
@@ -66,124 +66,124 @@ Committing fixes in the dark, seriously, who killed my power!?
 Committing in accordance with the prophecy.
 Completed with no bugs...
 Continued development...
-copy and paste is not a design pattern
+Copy and paste is not a design pattern
 Copy pasta fail. still had a instead of a
 Copy-paste to fix previous copy-paste
 Corrected mistakes
-c&p fail
+C&p fail
 Crap. Tonight is raid night and I am already late.
 DEAL WITH IT
-debug line test
-debugo
-debug suff
-de-misunderestimating
+Debug line test
+Debugo
+Debug suff
+De-misunderestimating
 Derp
 Derp, asset redirection in dev mode
 Derp. Fix missing constant post rename
-derp, helper method rename
-derpherp
+Derp, helper method rename
+Derpherp
 Derp search/replace fuckup
 Derpy hooves
-diaaaaaazeeeeeeeeeepam
-did everything
-dirty hack, have a better idea ?
+Diaaaaaazeeeeeeeeeepam
+Did everything
+Dirty hack, have a better idea ?
 Does anyone read this? I'll be at the coffee shop accross the street.
 Does not work.
 Does this work
-doh.
-done. going to bed now.
+Doh.
+Done. going to bed now.
 Done, to whoever merges this, good luck.
 Don’t even try to refactor it.
 Don’t mess with Voodoo
 Don't push this commit
 Do things better, faster, stronger
 Either Hot Shit or Total Bollocks
-epic
-eppic fail XNAMEX
+Epic
+Eppic fail XNAMEX
 Errare humanum est.
-extra debug for stuff module
-fail
+Extra debug for stuff module
+Fail
 Feed. You. Stuff. No time.
-ffs
-final commit.
+Ffs
+Final commit.
 Final commit, ready for tagging
 Fingers crossed!
 Finished fondling.
 First Blood
-first blush
-fix
-fix bug, for realz
+First blush
+Fix
+Fix bug, for realz
 Fixed a bug cause XNAMEX said to
 Fixed a bug in NoteLineCount... not seriously...
 Fixed a little bug...
 Fixed Bug
 Fixed compilation errors
-fixed conflicts (LOL merge -s ours; push -f)
+Fixed conflicts (LOL merge -s ours; push -f)
 Fixed errors
-fixed errors in the previous commit
-fixed mistaken bug
-fixed shit that havent been fixed in last commit
-fixed some minor stuff, might need some additional work.
+Fixed errors in the previous commit
+Fixed mistaken bug
+Fixed shit that havent been fixed in last commit
+Fixed some minor stuff, might need some additional work.
 Fixed so the code compiles
 Fixed the build.
 Fixed the fuck out of #XNUMX!
-fixed the israeli-palestinian conflict
+Fixed the israeli-palestinian conflict
 Fixed unnecessary bug.
-fixes
+Fixes
 Fix hard-coded [object Object] string (thanks!)
 Fixing XNAMEX's bug.
 Fixing XNAMEX's bugs.
 Fix my stupidness
-fix /sigh
-fix some fucking errors
+Fix /sigh
+Fix some fucking errors
 Fix the fixes
-fix tpyo
+Fix tpyo
 FONDLED THE CODE
-foo
-forgot to save that file
-forgot we're not using a smart language
+Foo
+Forgot to save that file
+Forgot we're not using a smart language
 For great justice.
-formatted all
+Formatted all
 FOR REAL.
 For real, this time.
 For the sake of my sanity, just ignore this...
-freemasonry
+Freemasonry
 Friday 5pm
 Fucking egotistical bastard. adds expandtab to vimrc
 Fucking submodule bull shit
 Fucking templates.
 FUCKING XUPPERNAMEX
 Fuck it, YOLO!
-fuckup.
+Fuckup.
 Future self, please forgive me and don't hit me with the baseball bat again!
-gave up and used tables.
+Gave up and used tables.
 General commit (no IDs open) - Modifications for bad implementations
-giggle.
+Giggle.
 GIT :/
 Give me a break, it's 2am.  But it works now.
 Glue. Match sticks. Paper. Build script!
 #GrammarNazi
-grmbl
+Grmbl
 Gross hack because XNAMEX doesn't know how to code
-grrrr
+Grrrr
 Handled a particular error.
-happy monday _ bleh _
-harharhar
+Happy monday _ bleh _
+Harharhar
 <<<<<<<<<<<<<<< HEAD
 Here be Dragons
-herpderp
+Herpderp
 Herp derp I left the debug in there and forgot to reset errors.
-herpderp (redux)
+Herpderp (redux)
 Herpderp, shoulda check if it does really compile.
 Herping the derp
 Herping the derp derp (silly scoping error)
 Herping the fucking derp right here and now.
 Herpy dooves.
-hey, look over there!
-hey, what's that over there?!
+Hey, look over there!
+Hey, what's that over there?!
 Hide those navs, boi!
-hmmm
-hoo boy
+Hmmm
+Hoo boy
 I __ a word
 I am even stupider than I thought
 I am Root. We are Root.
@@ -201,12 +201,12 @@ I don't give a damn 'bout my reputation
 I don't know what the hell I was thinking.
 I don't know what these changes are supposed to accomplish but somebody told me to make them.
 I don't know why. Just move on.
-i dunno, maybe this works
+I dunno, maybe this works
 IEize
 I expected something different.
 If it's hacky and you know it clap you hands (clap clap)!
 I forgot to commit... So here you go.
-if you're not using et, fuck off
+If you're not using et, fuck off
 I had a cup of tea and now it's fixed
 I hate this fucking language.
 I have no idea what I'm doing here.
@@ -226,7 +226,7 @@ I'm totally adding this to epic win. +300
 I must enjoy torturing myself
 I must have been drunk.
 I must sleep... it's working... in just three hours...
-include shit
+Include shit
 [Insert your commit message here. Be sure to make it descriptive.]
 I really should've committed this when I finished it...
 I should get a raise for this.
@@ -236,11 +236,11 @@ Is there an achievement for this?
 Is there an award for this?
 It compiles! Ship it!
 It'd be nice if type errors caused the compiler to issue a type error
-i think i fixed a bug...
-it is hump day _^_
+I think i fixed a bug...
+It is hump day _^_
 It only compiles every XNUM2,5X tries... good luck.
 It's 2016; why are we using ColdFusion?!
-it's friday
+It's friday
 It's getting hard to keep up with the crap I've trashed
 It's secret!
 It's Working!
@@ -250,51 +250,51 @@ It works!
 I was told to leave it alone, but I have this thing called OCD, you see
 I was wrong...
 I would rather be playing SC2.
-jobs... steve jobs
-just checking if git is working properly...
+Jobs... steve jobs
+Just checking if git is working properly...
 Just committing so I can go home
-just shoot me
+Just shoot me
 Just stop reading these for a while, ok..
-just trolling the repo
-last minute fixes.
+Just trolling the repo
+Last minute fixes.
 Last time I said it works? I was kidding.  Try this.
 LAST time, XNAMEX, /dev/urandom IS NOT a variable name generator...
-less french words
+Less french words
 Locating the required gigapixels to render...
 Lock S-foils in attack position
-lol
+Lol
 LOL!
-lol digg
-lolwhat?
-lots and lots of changes
-lots of changes after a lot of time
+Lol digg
+Lolwhat?
+Lots and lots of changes
+Lots of changes after a lot of time
 LOTS of changes. period
 Made it to compile...
-magic, have no clue but it works
+Magic, have no clue but it works
 Major fixup.
 Make that it works in 90% of the cases.  3:30.
-making this thing actually usable.
-marks
-mergederp
+Making this thing actually usable.
+Marks
+Mergederp
 Merge pull my finger request
 Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
 Merging the merge
-minor changes
+Minor changes
 Minor updates
 Misc. fixes
 MOAR BIFURCATION
-more debug... who overwrote!
-more fixes
+More debug... who overwrote!
+More fixes
 More ignore
-more ignored words
-more ignores
-more stuff
+More ignored words
+More ignores
+More stuff
 Moved something to somewhere... goodnight...
-move your body every every body
+Move your body every every body
 -m \'So I hear you like commits ...\'
 My bad
-need another beer
-needs more cow bell
+Need another beer
+Needs more cow bell
 Nitpicking about alphabetizing methods, minor OCD thing
 No changes after this point.
 No changes made
@@ -308,106 +308,106 @@ Now it's all microservices, I hope the fad persists.
 Obligatory placeholder commit message
 Oh no
 Ok, 5am, it works.  For real.
-omg what have I done?
-omgsosorry
+Omg what have I done?
+Omgsosorry
 One does not simply merge into master
 One little whitespace gets its very own commit! Oh, life is so erratic!
 One more time, but with feeling.
 Only Tom Cruise knows why.
-oops
-oops!
-oops, forgot to add the file
-oopsie B|
-oops - thought I got that one.
-pam anderson is going to love me.
-pay no attention to the man behind the curtain
+Oops
+Oops!
+Oops, forgot to add the file
+Oopsie B|
+Oops - thought I got that one.
+Pam anderson is going to love me.
+Pay no attention to the man behind the curtain
 PEBKAC
-pep8 - cause I fell like doing a barrel roll
-pep8 fixer
-perfect...
-pgsql is being a pain
-pgsql is more strict, increase the hackiness up to 11
+Pep8 - cause I fell like doing a barrel roll
+Pep8 fixer
+Perfect...
+Pgsql is being a pain
+Pgsql is more strict, increase the hackiness up to 11
 Pig
 Please no changes this time.
-pointless limitation
+Pointless limitation
 Popping stash
 Programming the flux capacitor
-project lead is allergic to changes...
+Project lead is allergic to changes...
 Push poorly written test can down the road another ten years
-put code that worked where the code that didn't used to be
+Put code that worked where the code that didn't used to be
 QuickFix.
-rats
+Rats
 REALLY FUCKING FIXED
-really ignore ignored worsd
+Really ignore ignored worsd
 Refactored configuration.
 Refactor factories, revisit visitors
 Reinventing the wheel. Again.
 Removed code.
-remove debug<br/>all good
-removed echo and die statements, lolz.
+Remove debug<br/>all good
+Removed echo and die statements, lolz.
 Removed test case since code didn't pass QA
-removed tests since i can't make them green
+Removed tests since i can't make them green
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
-restored deleted entities just to be sure
+Restored deleted entities just to be sure
 Reticulating splines...
 Revert "fuckup".
 Revert "just testing, remember to revert"
 Same as last commit with changes
 See last commit
 SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
-s/    /  /g
+S/    /  /g
 Shit code!
 SHIT ===> GOLD
-should work I guess...
-should work now.
+Should work I guess...
+Should work now.
 Shovelling coal into the server...
 /sigh
-s/import/include/
-small is a real HTML tag, who knew.
+S/import/include/
+Small is a real HTML tag, who knew.
 SOAP is a piece of shit
-somebody keeps erasing my changes.
+Somebody keeps erasing my changes.
 Somebody set up us the bomb.
-some brief changes
+Some brief changes
 Some bugs fixed
-someday I gonna kill someone for this shit...
-someone fails and it isn't me
+Someday I gonna kill someone for this shit...
+Someone fails and it isn't me
 Some shit.
 Something fixed
-sometimes you just herp the derp so hard it herpderps
+Sometimes you just herp the derp so hard it herpderps
 So my boss wanted this button ...
 Spinning up the hamster...
-squash me
+Squash me
 Still can't get this right...
-stopped caring XNUM8,23X commits ago
-stuff
+Stopped caring XNUM8,23X commits ago
+Stuff
 Stuff
 Switched off unit test XNUM15X because the build had to go out now and there was no time to fix it properly.
-syntax
-tagging release w.t.f.
+Syntax
+Tagging release w.t.f.
 TDD: 1, Me: 0
  - Temporary commit.
 Test commit. Please ignore
 Testing in progress ;)
-that coulda been bad
+That coulda been bad
 That last commit message about silly mistakes pales in comparision to this one
-that's all folks
+That's all folks
 That's just how I roll
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
-the magic is real
+The magic is real
 The same thing we do every night, Pinky - try to take over the world!
-these confounded tests drive me nuts
-these guys are flipped
-things occurred
+These confounded tests drive me nuts
+These guys are flipped
+Things occurred
 Things went wrong...
-third time's a charm
+Third time's a charm
 This branch is so dirty, even your mom can't clean it.
 This bunny should be killed.
 This commit is a lie
-this doesn't really make things faster, but I tried
+This doesn't really make things faster, but I tried
 This is a basic implementation that works.
-this is how we generate our shit.
-this is my quickfix branch and i will use to do my quickfixes
+This is how we generate our shit.
+This is my quickfix branch and i will use to do my quickfixes
 This is not the commit message you are looking for
 This is supposed to crash
 This is the last time we let XNAMEX commit ascii porn in the comments.
@@ -415,35 +415,35 @@ This is where it all begins...
 This is why git rebase is a horrible horrible thing.
 This is why the cat shouldn't sit on my keyboard.
 This really should not take 19 minutes to build.
-this should fix it
+This should fix it
 This solves it.
 This will definitely break in 20XNUM20,89X (TODO)
-tl;dr
+Tl;dr
 To be honest, I do not quite remember everything I changed here today. But it is all good, I tell ya.
 Todo!!!
 TODO: write meaningful commit message
 Too lazy to write descriptive message
 Too tired to write descriptive message
-totally more readable
+Totally more readable
 To those I leave behind, good luck!
-touched...
+Touched...
 Trust me, I'm an engineer!... What the f*ck did just happened here?
 Trust me, it's not badly written. It's just way above your head.
 Trying to fake a conflict
-tunning
-typo
+Tunning
+Typo
 Ugh. Bad rebase.
-uhhhhhh
-unh
-unionfind is no longer being molested.
+Uhhhhhh
+Unh
+Unionfind is no longer being molested.
 Updated
 Updated build targets.
 Update .gitignore
 Use a real JS construct, WTF knows why this works in chromium.
 Useful text
-various changes
+Various changes
 Version control is awful
-well crap.
+Well crap.
 We'll figure it out on Monday
 Well, it's doing something.
 Well the book was obviously wrong.
@@ -451,21 +451,21 @@ We should delete this crap before shipping.
 Whatever.
 Whatever will be, will be 8{
 ??! what the ...
-what the hell happened here
+What the hell happened here
 Whee.
 Whee, good night.
 Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
 Who knows...
 Who knows WTF?!
 Who Let the Bugs Out??
-whooooooooooooooooooooooooooo
+Whooooooooooooooooooooooooooo
 WHO THE FUCK CAME UP WITH MAKE?
 Why The Fuck?
-wip
-woa!! this one was really HARD!
-workaround for ant being a pile of fail
+Wip
+Woa!! this one was really HARD!
+Workaround for ant being a pile of fail
 Working on tests (haha)
-work in progress
+Work in progress
 WTF is this.
 XNAMEX broke the regex, lame
 XNAMEX made me do it
@@ -476,9 +476,9 @@ XUPPERNAMEX, WE WENT OVER THIS. C++ IO SUCKS.
 XUPPERNAMEX, WE WENT OVER THIS. EXPANDTAB.
 Yep, XNAMEX was right on this one.
 Yes, I was being sarcastic.
-yet another quality commit
-yolo push
-yo recipes
+Yet another quality commit
+Yolo push
+Yo recipes
 You can't see it, but I'm making a very angry face right now
 Your commit is writing checks your merge can't cash.
 You should have trusted me.
