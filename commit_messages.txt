@@ -49,6 +49,7 @@ breathe, =, breathe
 buenas those-things.
 bug fix
 bugger
+bumping poms
 bump to 0.0.3-dev:wq
 By works, I meant 'doesnt work'.  Works now..
 changed things...
@@ -468,6 +469,7 @@ workaround for ant being a pile of fail
 Working on tests (haha)
 work in progress
 WTF is this.
+Wubbalubbadubdub!
 XNAMEX broke the regex, lame
 XNAMEX made me do it
 XNAMEX rebase plx?
