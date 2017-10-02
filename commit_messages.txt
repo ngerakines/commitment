@@ -34,6 +34,7 @@ Become a programmer, they said. It'll be fun, they said.
 Best commit ever
 Blaming regex.
 By works, I meant 'doesnt work'.  Works now..
+Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
 COMMIT ALL THE FILES!
 Code was clean until manager requested to fuck it up
 Commit committed
@@ -57,6 +58,7 @@ Do things better, faster, stronger
 Does anyone read this? I'll be at the coffee shop accross the street.
 Does not work.
 Does this work
+Don't Ask Me, I Have No Idea Why This Works Either
 Don't push this commit
 Done, to whoever merges this, good luck.
 Don’t even try to refactor it.
@@ -73,6 +75,7 @@ Finished fondling.
 First Blood
 Fix hard-coded [object Object] string (thanks!)
 Fix my stupidness
+Fix PC Load Letter Error
 Fix the fixes
 Fixed Bug
 Fixed a bug cause XNAMEX said to
@@ -156,9 +159,11 @@ I'm totally adding this to epic win. +300
 ID:10T Error
 IEize
 If it's hacky and you know it clap you hands (clap clap)!
+Insert Commit Message Here
 Is there an achievement for this?
 Is there an award for this?
 Issue #XNUM10X is now Issue #XNUM30X
+It Compiles! 50 Points For Gryffindor.
 It compiles! Ship it!
 It only compiles every XNUM2,5X tries... good luck.
 It was the best of times, it was the worst of times
@@ -177,18 +182,22 @@ LOTS of changes. period
 Last time I said it works? I was kidding.  Try this.
 Locating the required gigapixels to render...
 Lock S-foils in attack position
+Low On Caffeine, Please Forgive Coding Style
 MOAR BIFURCATION
 Made it to compile...
 Major fixup.
+Make Sure You Are Square With Your God Before Trying To Merge This
 Make that it works in 90% of the cases.  3:30.
 Merge pull my finger request
 Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+Merging 'WIP: Do Not Merge This Branch' Into Master
 Merging the merge
 Minor updates
 Misc. fixes
 More ignore
 Moved something to somewhere... goodnight...
 My bad
+Never Run This Commit As Root
 NSA backdoor - ignore
 Nitpicking about alphabetizing methods, minor OCD thing
 No changes after this point.
@@ -253,6 +262,7 @@ Things went wrong...
 This branch is so dirty, even your mom can't clean it.
 This bunny should be killed.
 This commit is a lie
+This Is Why We Don't Push To Production On Fridays
 This is a basic implementation that works.
 This is not the commit message you are looking for
 This is supposed to crash
@@ -280,6 +290,7 @@ Useful text
 Version control is awful
 WHO THE FUCK CAME UP WITH MAKE?
 WTF is this.
+We Had To Use Dark Magic To Make This Work
 We should delete this crap before shipping.
 We'll figure it out on Monday
 Well the book was obviously wrong.

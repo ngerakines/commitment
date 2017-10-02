@@ -75,6 +75,7 @@ Name: Jordan Finnigan (github:JadoJodo)
 Name: Christian Froehler (github:generatorr)
 Name: Fabian Kochem (github:vortec)
 Name: Gustavo de León (github:bestgustavo30)
+Name: Alex Mayer (github:amayer5125)
 
 /* SITE */
 Last update: 2014/04/17
