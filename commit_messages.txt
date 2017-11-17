@@ -452,6 +452,7 @@ project lead is allergic to changes...
 put code that worked where the code that didn't used to be
 rats
 really ignore ignored worsd
+remove certain things and added stuff
 remove debug<br/>all good
 removed echo and die statements, lolz.
 removed tests since i can't make them green
