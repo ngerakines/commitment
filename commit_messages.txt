@@ -12,7 +12,6 @@
 ??! what the ...
 [Insert your commit message here. Be sure to make it descriptive.]
 [no message]
-<<<<<<<<<<<<<<< HEAD
 640K ought to be enough for anybody
 8==========D
 a few bits tried to escape, but we caught them
@@ -362,6 +361,7 @@ really ignore ignored worsd
 Refactor factories, revisit visitors
 Refactored configuration.
 Reinventing the wheel. Again.
+remove certain things and added stuff
 remove debug<br/>all good
 Removed code.
 removed echo and die statements, lolz.
