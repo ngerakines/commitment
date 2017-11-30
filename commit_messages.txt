@@ -462,6 +462,7 @@ s/    /  /g
 s/import/include/
 should work I guess...
 should work now.
+simply doing things right makes doing things work
 small is a real HTML tag, who knew.
 some brief changes
 somebody keeps erasing my changes.
