@@ -5,13 +5,13 @@
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
 (c) Microsoft 1988
 -m \'So I hear you like commits ...\'
-:q!
 .
 ...
 /sigh
 640K ought to be enough for anybody
 8==========D
 :(:(
+:q!
 <<<<<<<<<<<<<<< HEAD
 ??! what the ...
 A fix I believe, not like I tested or anything
@@ -36,8 +36,8 @@ Become a programmer, they said. It'll be fun, they said.
 Best commit ever
 Blaming regex.
 By works, I meant 'doesnt work'.  Works now..
-Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
 COMMIT ALL THE FILES!
+Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
 Code was clean until manager requested to fuck it up
 Commit committed
 Commit committed....
@@ -75,9 +75,9 @@ Final commit, ready for tagging
 Fingers crossed!
 Finished fondling.
 First Blood
+Fix PC Load Letter Error
 Fix hard-coded [object Object] string (thanks!)
 Fix my stupidness
-Fix PC Load Letter Error
 Fix the fixes
 Fixed Bug
 Fixed a bug cause XNAMEX said to
@@ -200,9 +200,9 @@ Misc. fixes
 More ignore
 Moved something to somewhere... goodnight...
 My bad
-Never Run This Commit As Root
 NOJIRA: No cry
 NSA backdoor - ignore
+Never Run This Commit As Root
 Nitpicking about alphabetizing methods, minor OCD thing
 No changes after this point.
 No changes made
@@ -263,10 +263,10 @@ That's just how I roll
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
 The same thing we do every night, Pinky - try to take over the world!
 Things went wrong...
+This Is Why We Don't Push To Production On Fridays
 This branch is so dirty, even your mom can't clean it.
 This bunny should be killed.
 This commit is a lie
-This Is Why We Don't Push To Production On Fridays
 This is a basic implementation that works.
 This is not the commit message you are looking for
 This is supposed to crash
