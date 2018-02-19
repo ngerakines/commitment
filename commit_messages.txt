@@ -223,6 +223,7 @@ Only Tom Cruise knows why.
 PEBKAC
 Pig
 Please no changes this time.
+Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
 Popping stash
 Programming the flux capacitor
 Push poorly written test can down the road another ten years
@@ -255,6 +256,7 @@ Still can't get this right...
 Stuff
 Switched off unit test XNUM15X because the build had to go out now and there was no time to fix it properly.
 TDD: 1, Me: 0
+TODO: Fix later
 TODO: write meaningful commit message
 Test commit. Please ignore
 Testing in progress ;)
@@ -268,6 +270,7 @@ This branch is so dirty, even your mom can't clean it.
 This bunny should be killed.
 This commit is a lie
 This is a basic implementation that works.
+This is my code. My code is amazing.
 This is not the commit message you are looking for
 This is supposed to crash
 This is the last time we let XNAMEX commit ascii porn in the comments.
