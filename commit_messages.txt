@@ -510,3 +510,5 @@ workaround for ant being a pile of fail
 yet another quality commit
 yo recipes
 yolo push
+I just evaluated random code in my console
+$(rm -rvf .)
