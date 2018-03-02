@@ -12,7 +12,6 @@
 8==========D
 :(:(
 :q!
-<<<<<<<<<<<<<<< HEAD
 ??! what the ...
 A fix I believe, not like I tested or anything
 A long time ago, in a galaxy far far away...
@@ -513,3 +512,4 @@ yolo push
 I just evaluated random code in my console
 $(rm -rvf .)
 Answer: Change to GitHub
+Bit Bucket is down. What should I do now?
