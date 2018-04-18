@@ -277,6 +277,7 @@ This is the last time we let XNAMEX commit ascii porn in the comments.
 This is where it all begins...
 This is why git rebase is a horrible horrible thing.
 This is why the cat shouldn't sit on my keyboard.
+This should work until december 2013.
 This really should not take 19 minutes to build.
 This solves it.
 This will definitely break in 20XNUM20,89X (TODO)
