@@ -52,6 +52,7 @@ Copy-paste to fix previous copy-paste
 Corrected mistakes
 Crap. Tonight is raid night and I am already late.
 DEAL WITH IT
+DNS_PROBE_FINISHED_NXDOMAIN
 Derp
 Derp search/replace fuckup
 Derp, asset redirection in dev mode
@@ -512,6 +513,7 @@ unionfind is no longer being molested.
 various changes
 well crap.
 what the hell happened here
+whatthecommit.com’s server IP address could not be found.
 whooooooooooooooooooooooooooo
 wip
 woa!! this one was really HARD!
