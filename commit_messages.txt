@@ -37,6 +37,7 @@ Become a programmer, they said. It'll be fun, they said.
 Best commit ever
 Blaming regex.
 By works, I meant 'doesnt work'.  Works now..
+Can someone review this commit, please ?
 COMMIT ALL THE FILES!
 Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
 Code was clean until manager requested to fuck it up
