@@ -87,6 +87,7 @@ Fixed a bug in NoteLineCount... not seriously...
 Fixed a little bug...
 Fixed compilation errors
 Fixed errors
+Fixed mispeling
 Fixed so the code compiles
 Fixed some shit
 Fixed the build.
