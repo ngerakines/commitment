@@ -26,6 +26,7 @@ Add Sandbox
 Added a banner to the default admin page. Please have mercy on me =(
 Added another dependency
 Added missing file in previous commit
+Added some NullPointerExceptions - Happy easter, you bastards! :D
 Added translation.
 All your codebase are belong to us.
 And a commit that I don't know the reason of...
@@ -103,6 +104,7 @@ Fixing XNAMEX's bugs.
 For great justice.
 For real, this time.
 For the sake of my sanity, just ignore this...
+For the statistics only
 Friday 5pm
 Fuck it, YOLO!
 Fucking egotistical bastard. adds expandtab to vimrc
@@ -219,6 +221,7 @@ Misc. fixes
 More ignore
 Moved something to somewhere... goodnight...
 My bad
+My boss forced me to build this feature... Pure shit.
 NOJIRA: No cry
 NSA backdoor - ignore
 Never Run This Commit As Root
@@ -243,6 +246,7 @@ One does not simply merge into master
 One little whitespace gets its very own commit! Oh, life is so erratic!
 One more time, but with feeling.
 Only Tom Cruise knows why.
+Out for vacation... DONT YOU DARE TO CALL ME.
 PEBKAC
 Pig
 Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
@@ -263,6 +267,7 @@ Reset error count between rows. herpderp
 Reticulating splines...
 Revert "fuckup".
 Revert "just testing, remember to revert"
+Rush B!
 SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
 SHIT ===> GOLD
 SOAP is a piece of shit
@@ -280,6 +285,9 @@ Still can't get this right...
 Stuff
 Switched off unit test XNUM15X because the build had to go out now and there was no time to fix it properly.
 TDD: 1, Me: 0
+TODO: Replace placeholder code
+TODO: Replace stubs
+TODO: Tell someone to implement this
 TODO: Fix later
 TODO: write meaningful commit message
 Test commit. Please ignore
@@ -520,6 +528,7 @@ these guys are flipped
 things occurred
 third time's a charm
 this doesn't really make things faster, but I tried
+this is Spartaaaaaaaa
 this is how we generate our shit.
 this is my quickfix branch and i will use to do my quickfixes
 this should fix it
