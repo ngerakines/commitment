@@ -43,6 +43,7 @@ Bit Bucket is down. What should I do now?
 Blaming regex.
 Bolsonaro 2018
 By works, I meant 'doesnt work'.  Works now..
+Can someone review this commit, please ?
 COMMIT ALL THE FILES!
 Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
 Code was clean until manager requested to fuck it up
