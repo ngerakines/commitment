@@ -79,6 +79,7 @@ Name: Alex Mayer (github:amayer5125)
 Name: Ahmad Samiei (github:amad)
 Name: Shaun Hammill (github:Plloi)
 Name: github:KneeNinetySeven
+Name: Rafael Reis (github:reisraff)
 
 /* SITE */
 Last update: 2014/04/17
