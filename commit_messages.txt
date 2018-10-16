@@ -3,6 +3,8 @@
 "Get that shit outta my master."
 #GrammarNazi
 #elesim
+#elenao
+#13eConfirma!
 $(init 0)
 $(rm -rvf .)
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
@@ -42,6 +44,7 @@ Best commit ever
 Bit Bucket is down. What should I do now?
 Blaming regex.
 Bolsonaro 2018
+HADDAD 2018
 By works, I meant 'doesnt work'.  Works now..
 Can someone review this commit, please ?
 COMMIT ALL THE FILES!
