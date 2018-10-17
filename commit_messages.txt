@@ -2,13 +2,10 @@
  ¯\_(ツ)_/¯
 "Get that shit outta my master."
 #GrammarNazi
-#elesim
-$(init 0)
-$(rm -rvf .)
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
 (c) Microsoft 1988
---help
 -m \'So I hear you like commits ...\'
+--help
 .
 ...
 /sigh
@@ -38,9 +35,7 @@ At times like this I wish I was a Garbage Man.
 Batman! (this commit has no parents)
 Become a programmer, they said. It'll be fun, they said.
 Best commit ever
-Bit Bucket is down. What should I do now?
 Blaming regex.
-Bolsonaro 2018
 By works, I meant 'doesnt work'.  Works now..
 COMMIT ALL THE FILES!
 Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
@@ -72,7 +67,6 @@ Don't push this commit
 Done, to whoever merges this, good luck.
 Don’t even try to refactor it.
 Don’t mess with Voodoo
-Easteregg
 Either Hot Shit or Total Bollocks
 Errare humanum est.
 FONDLED THE CODE
@@ -139,7 +133,6 @@ I don't give a damn 'bout my reputation
 I don't know what the hell I was thinking.
 I don't know what these changes are supposed to accomplish but somebody told me to make them.
 I don't know why. Just move on.
-I dont know what I am doing
 I expected something different.
 I forgot to commit... So here you go.
 I had a cup of tea and now it's fixed
@@ -147,7 +140,6 @@ I hate this fucking language.
 I have no idea what I'm doing here.
 I honestly wish I could remember what was going on here...
 I immediately regret this commit.
-I just evaluated random code in my console
 I know what I am doing. Trust me.
 I know, I know, this is not how I’m supposed to do it, but I can't think of something better.
 I must enjoy torturing myself
@@ -156,7 +148,6 @@ I must sleep... it's working... in just three hours...
 I really should've committed this when I finished it...
 I should get a raise for this.
 I should have had a V8 this morning.
-I think now it works
 I transformed a bug into a feature. Once you learn how, you'll never forget it
 I was told to leave it alone, but I have this thing called OCD, you see
 I was wrong...
@@ -176,7 +167,6 @@ I'm totally adding this to epic win. +300
 ID:10T Error
 IEize
 If it's hacky and you know it clap you hands (clap clap)!
-Improving the fix
 Insert Commit Message Here
 Is there an achievement for this?
 Is there an award for this?
@@ -186,7 +176,6 @@ It compiles! Ship it!
 It only compiles every XNUM2,5X tries... good luck.
 It was the best of times, it was the worst of times
 It worked for me...
-It works on my computer
 It works!
 It'd be nice if type errors caused the compiler to issue a type error
 It's 2016; why are we using ColdFusion?!
@@ -194,16 +183,15 @@ It's Working!
 It's getting hard to keep up with the crap I've trashed
 It's possible! you can turn a 50-line code chunk into just 3 lines. Here's how
 It's secret!
-It's time to go home
 Just committing so I can go home
 Just stop reading these for a while, ok..
 LAST time, XNAMEX, /dev/urandom IS NOT a variable name generator...
 LOL!
 LOTS of changes. period
+Love coding? here's the secret reason why
 Last time I said it works? I was kidding.  Try this.
 Locating the required gigapixels to render...
 Lock S-foils in attack position
-Love coding? here's the secret reason why
 Low On Caffeine, Please Forgive Coding Style
 MOAR BIFURCATION
 Made it to compile...
@@ -221,14 +209,14 @@ Moved something to somewhere... goodnight...
 My bad
 NOJIRA: No cry
 NSA backdoor - ignore
-Never Run This Commit As Root
 Never before had a small typo like this one caused so much damage.
+Never Run This Commit As Root
 Next time someone asks you how to fix an infinite loop, remember this commit
 Nitpicking about alphabetizing methods, minor OCD thing
+Nobody had ever created a function like this one before.
 No changes after this point.
 No changes made
 No time to commit.. My people need me!
-Nobody had ever created a function like this one before.
 Not one conflict, today was a good day.
 Not sure why
 Nothing to see here, move along
@@ -237,7 +225,6 @@ Now it's all microservices, I hope the fad persists.
 Now we tell you your browser sucks in your native tongue.
 Obligatory placeholder commit message
 Oh no
-Ok
 Ok, 5am, it works.  For real.
 One does not simply merge into master
 One little whitespace gets its very own commit! Oh, life is so erratic!
@@ -245,8 +232,8 @@ One more time, but with feeling.
 Only Tom Cruise knows why.
 PEBKAC
 Pig
-Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
 Please no changes this time.
+Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
 Popping stash
 Programming the flux capacitor
 Push poorly written test can down the road another ten years
@@ -257,7 +244,6 @@ Refactored configuration.
 Reinventing the wheel. Again.
 Removed code.
 Removed test case since code didn't pass QA
-Removing unecessary stuff
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
 Reticulating splines...
@@ -284,10 +270,8 @@ TODO: Fix later
 TODO: write meaningful commit message
 Test commit. Please ignore
 Testing in progress ;)
-Testing the test
 That last commit message about silly mistakes pales in comparision to this one
 That's just how I roll
-The dog is eating my code
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
 The same thing we do every night, Pinky - try to take over the world!
 Things went wrong...
@@ -304,8 +288,8 @@ This is the last time we let XNAMEX commit ascii porn in the comments.
 This is where it all begins...
 This is why git rebase is a horrible horrible thing.
 This is why the cat shouldn't sit on my keyboard.
-This really should not take 19 minutes to build.
 This should work until december 2013.
+This really should not take 19 minutes to build.
 This solves it.
 This was the most stupid bug in the world, fixed in the smartest way ever
 This will definitely break in 20XNUM20,89X (TODO)
@@ -319,7 +303,6 @@ Trust me, I'm an engineer!... What the f*ck did just happened here?
 Trust me, it's not badly written. It's just way above your head.
 Trying to fake a conflict
 Ugh. Bad rebase.
-Undoing last comming
 Update .gitignore
 Updated
 Updated build targets.
@@ -358,7 +341,6 @@ You should have trusted me.
 Your commit is writing checks your merge can't cash.
 [Insert your commit message here. Be sure to make it descriptive.]
 [no message]
-_
 a few bits tried to escape, but we caught them
 add actual words
 added security.
@@ -495,7 +477,6 @@ remove certain things and added stuff
 remove debug<br/>all good
 removed echo and die statements, lolz.
 removed tests since i can't make them green
-removing unit tests
 restored deleted entities just to be sure
 s/    /  /g
 s/import/include/
@@ -543,3 +524,22 @@ workaround for ant being a pile of fail
 yet another quality commit
 yo recipes
 yolo push
+I just evaluated random code in my console
+$(rm -rvf .)
+Bit Bucket is down. What should I do now?
+I think now it works
+It works on my computer
+I dont know what I am doing
+It's time to go home
+_
+Bolsonaro 2018
+#elesim
+Removing unecessary stuff
+Improving the fix
+Undoing last comming
+Easteregg
+Testing the test
+The dog is eating my code
+Ok
+$(init 0)
+removing unit tests
