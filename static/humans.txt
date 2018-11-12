@@ -80,6 +80,7 @@ Name: Ahmad Samiei (github:amad)
 Name: Shaun Hammill (github:Plloi)
 Name: github:KneeNinetySeven
 Name: Rafael Reis (github:reisraff)
+Name: github:ShanTulshi
 
 /* SITE */
 Last update: 2014/04/17
