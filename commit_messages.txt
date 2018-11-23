@@ -2,7 +2,6 @@
  ¯\_(ツ)_/¯
 "Get that shit outta my master."
 #GrammarNazi
-#elesim
 $(init 0)
 $(rm -rvf .)
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
@@ -41,7 +40,6 @@ Become a programmer, they said. It'll be fun, they said.
 Best commit ever
 Bit Bucket is down. What should I do now?
 Blaming regex.
-Bolsonaro 2018
 By works, I meant 'doesnt work'.  Works now..
 COMMIT ALL THE FILES!
 Can someone review this commit, please ?

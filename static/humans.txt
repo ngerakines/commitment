@@ -81,6 +81,7 @@ Name: Shaun Hammill (github:Plloi)
 Name: github:KneeNinetySeven
 Name: Rafael Reis (github:reisraff)
 Name: github:ShanTulshi
+Name: Jonatha Daguerre (github:jonathadv)
 
 /* SITE */
 Last update: 2014/04/17
