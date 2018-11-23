@@ -41,8 +41,8 @@ Best commit ever
 Bit Bucket is down. What should I do now?
 Blaming regex.
 By works, I meant 'doesnt work'.  Works now..
-Can someone review this commit, please ?
 COMMIT ALL THE FILES!
+Can someone review this commit, please ?
 Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
 Code was clean until manager requested to fuck it up
 Commit committed
@@ -132,6 +132,7 @@ I am Root. We are Root.
 I am Spartacus
 I am even stupider than I thought
 I am sorry
+I am the greatest javascript developer in the world.
 I can't believe it took so long to fix this.
 I cannot believe that it took this long to write a test for this.
 I did it for the lulz!
@@ -152,6 +153,7 @@ I immediately regret this commit.
 I just evaluated random code in my console
 I know what I am doing. Trust me.
 I know, I know, this is not how I’m supposed to do it, but I can't think of something better.
+I made leetle mistake
 I must enjoy torturing myself
 I must have been drunk.
 I must sleep... it's working... in just three hours...
@@ -285,10 +287,10 @@ Still can't get this right...
 Stuff
 Switched off unit test XNUM15X because the build had to go out now and there was no time to fix it properly.
 TDD: 1, Me: 0
+TODO: Fix later
 TODO: Replace placeholder code
 TODO: Replace stubs
 TODO: Tell someone to implement this
-TODO: Fix later
 TODO: write meaningful commit message
 Test commit. Please ignore
 Testing in progress ;)
@@ -339,6 +341,7 @@ WHO THE FUCK CAME UP WITH MAKE?
 WTF is this.
 We Had To Use Dark Magic To Make This Work
 We should delete this crap before shipping.
+We should get someone from Purdue to do this. They are the boilerplaters.
 We'll figure it out on Monday
 Well the book was obviously wrong.
 Well, it's doing something.
@@ -384,6 +387,7 @@ arrgghh... damn this thing for not working.
 arrrggghhhhh fixed!
 asdfasdfasdfasdfasdfasdfadsf
 assorted changes
+bad things happen when you forget about that one little change you made ages ago
 bara bra grejjor
 better code
 better grepping
@@ -413,6 +417,7 @@ derpherp
 diaaaaaazeeeeeeeeeepam
 did everything
 dirty hack, have a better idea ?
+does it work? maybe. will I check? no.
 doh.
 done. going to bed now.
 epic
@@ -442,8 +447,10 @@ freemasonry
 fuckup.
 gave up and used tables.
 giggle.
+git + ipynb = :(
 grmbl
 grrrr
+hacky sack
 happy monday _ bleh _
 harharhar
 herpderp
@@ -472,6 +479,7 @@ lots of changes after a lot of time
 magic, have no clue but it works
 making this thing actually usable.
 marks
+mergeconflix is the new hottest Gaul on the block
 mergederp
 minor changes
 more debug... who overwrote!
@@ -533,6 +541,7 @@ this doesn't really make things faster, but I tried
 this is Spartaaaaaaaa
 this is how we generate our shit.
 this is my quickfix branch and i will use to do my quickfixes
+this is why docs are important
 this should fix it
 tl;dr
 totally more readable
@@ -547,6 +556,7 @@ well crap.
 what the hell happened here
 whatthecommit.com’s server IP address could not be found.
 whooooooooooooooooooooooooooo
+why is everything broken
 wip
 woa!! this one was really HARD!
 work in progress
