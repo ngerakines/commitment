@@ -43,6 +43,7 @@ Blaming regex.
 By works, I meant 'doesnt work'.  Works now..
 COMMIT ALL THE FILES!
 Can someone review this commit, please ?
+Check next commit for message.
 Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
 Code was clean until manager requested to fuck it up
 Commit committed
@@ -99,6 +100,8 @@ Fixed some shit
 Fixed the build.
 Fixed the fuck out of #XNUMX!
 Fixed unnecessary bug.
+Fixed everything.
+Fixed what was broken.
 Fixing XNAMEX's bug.
 Fixing XNAMEX's bugs.
 For great justice.
@@ -354,7 +357,9 @@ Who has two thumbs and remembers the rudiments of his linear algebra courses?  A
 Who knows WTF?!
 Who knows...
 Why The Fuck?
+WIP, always
 Working on tests (haha)
+Working on WIP
 Wubbalubbadubdub!
 XNAMEX broke the regex, lame
 XNAMEX made me do it
