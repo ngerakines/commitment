@@ -18,18 +18,26 @@ from tornado.options import define, options
 define("port", default=5000, help="run on the given port", type=int)
 
 names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
-    'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
-    'Rainer', 'Guillaume', 'Kelan', 'David', 'John', 'Stephen', 'Tom', 'Steven',
-    'Jen', 'Marcus', 'Edy', 'Rachel']
+         'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
+         'Rainer', 'Guillaume', 'Kelan', 'David', 'John', 'Stephen', 'Tom', 'Steven',
+         'Jen', 'Marcus', 'Edy', 'Rachel']
 
 humans_file = os.path.join(os.path.dirname(__file__), 'static', 'humans.txt')
 messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
+sfw_messages_file = os.path.join(
+    os.path.dirname(__file__), 'commit_messages_sfw.txt')
 messages = {}
+sfw_messages = {}
 
 # Create a hash table of all commit messages
 with open(messages_file) as messages_input:
     for line in messages_input.readlines():
         messages[md5(line).hexdigest()] = line
+
+# Create a hash table of all sfw commit messages
+with open(sfw_messages_file) as sfw_messages_input:
+    for sfw_line in sfw_messages_input.readlines():
+        sfw_messages[md5(sfw_line).hexdigest()] = sfw_line
 
 with open(humans_file) as humans_input:
     humans_content = humans_input.read()
@@ -42,6 +50,7 @@ with open(humans_file) as humans_input:
                 names.append(data.split(" ")[0])
 
 num_re = re.compile(r"XNUM([0-9,]*)X")
+
 
 def fill_line(message):
     message = message.replace('XNAMEX', random.choice(names))
@@ -56,11 +65,11 @@ def fill_line(message):
         value = nums.pop(0) or str(end)
         if "," in value:
             position = value.index(",")
-            if position == 0: # XNUM,5X
+            if position == 0:  # XNUM,5X
                 end = int(value[1:])
-            elif position == len(value) - 1: # XNUM5,X
+            elif position == len(value) - 1:  # XNUM5,X
                 start = int(value[:position])
-            else: # XNUM1,5X
+            else:  # XNUM1,5X
                 start = int(value[:position])
                 end = int(value[position+1:])
         else:
@@ -73,12 +82,21 @@ def fill_line(message):
 
     return message
 
+
 class MainHandler(tornado.web.RequestHandler):
     def get(self, message_hash=None):
-        if not message_hash:
-            message_hash = random.choice(messages.keys())
-        elif message_hash not in messages:
-            raise tornado.web.HTTPError(404)
+
+        sfw_mode = self.get_arguments("sfw")
+        if sfw_mode:
+            if not message_hash:
+                message_hash = random.choice(sfw_messages.keys())
+            elif message_hash not in messages:
+                raise tornado.web.HTTPError(404)
+        else:
+            if not message_hash:
+                message_hash = random.choice(messages.keys())
+            elif message_hash not in messages:
+                raise tornado.web.HTTPError(404)
 
         message = fill_line(messages[message_hash])
 
@@ -87,20 +105,25 @@ class MainHandler(tornado.web.RequestHandler):
     def output_message(self, message, message_hash):
         self.render('index.html', message=message, message_hash=message_hash)
 
+
 class PlainTextHandler(MainHandler):
     def output_message(self, message, message_hash):
         self.set_header('Content-Type', 'text/plain')
         self.write(xhtml_unescape(message).replace('<br/>', '\n'))
 
+
 class JsonHandler(MainHandler):
     def output_message(self, message, message_hash):
         self.set_header('Content-Type', 'application/json')
-        self.write(json.dumps({'hash': message_hash, 'commit_message':message.replace('\n', ''), 'permalink': self.request.protocol + "://" + self.request.host + '/' + message_hash }))
+        self.write(json.dumps({'hash': message_hash, 'commit_message': message.replace(
+            '\n', ''), 'permalink': self.request.protocol + "://" + self.request.host + '/' + message_hash}))
+
 
 class HumansHandler(tornado.web.RequestHandler):
     def get(self):
         self.set_header('Content-Type', 'text/plain')
         self.write(humans_content)
+
 
 settings = {
     'static_path': os.path.join(os.path.dirname(__file__), 'static'),
