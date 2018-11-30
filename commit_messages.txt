@@ -448,6 +448,7 @@ fuckup.
 gave up and used tables.
 giggle.
 git + ipynb = :(
+git config --global alias.yolo '!git commit -m "$(curl -s whatthecommit.com/index.txt)
 grmbl
 grrrr
 hacky sack
