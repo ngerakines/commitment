@@ -536,12 +536,12 @@ stopped caring XNUM8,23X commits ago
 stuff
 syntax
 tagging release w.t.f.
-Technologies...
 that coulda been bad
 that's all folks
 the magic is real
 these confounded tests drive me nuts
 these guys are flipped
+They came from... Behind
 things occurred
 third time's a charm
 this doesn't really make things faster, but I tried
