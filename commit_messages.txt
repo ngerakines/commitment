@@ -1,4 +1,4 @@
- - Temporary commit.
+﻿ - Temporary commit.
  ¯\_(ツ)_/¯
 "Get that shit outta my master."
 #GrammarNazi
@@ -536,6 +536,7 @@ stopped caring XNUM8,23X commits ago
 stuff
 syntax
 tagging release w.t.f.
+Technologies...
 that coulda been bad
 that's all folks
 the magic is real
