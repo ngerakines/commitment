@@ -180,6 +180,7 @@ I'm totally adding this to epic win. +300
 ID:10T Error
 IEize
 If it's hacky and you know it clap you hands (clap clap)!
+If it's stupid and it works, it ain't stupid
 Improving the fix
 Insert Commit Message Here
 Is there an achievement for this?
