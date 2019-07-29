@@ -250,6 +250,7 @@ One more time, but with feeling.
 Only Tom Cruise knows why.
 Out for vacation... DONT YOU DARE TO CALL ME.
 PEBKAC
+Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
 Pig
 Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
 Please forgive me
