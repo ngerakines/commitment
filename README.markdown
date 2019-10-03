@@ -8,9 +8,10 @@ Some interesting usage for that can be:
 git config --global alias.yolo '!git commit -m "$(curl -s whatthecommit.com/index.txt)"'
 ```
 
+Or use the [WhatTheCommit](https://marketplace.visualstudio.com/items?itemName=Gaardsholt.vscode-whatthecommit) vscode extension
+
 # License
 
 Copyright (c) 2010-2017 Nick Gerakines <nick@gerakines.net>
 
 This project and its contents are open source under the MIT license.
-
