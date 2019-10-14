@@ -15,9 +15,9 @@ $(rm -rvf .)
 8==========D
 :(:(
 :q!
-<<<<<<<<<<<<<<< HEAD
 ??! what the ...
 A fix I believe, not like I tested or anything
+A full commitment's what I'm thinking of
 A long time ago, in a galaxy far far away...
 ALL SORTS OF THINGS
 Abandon all hope, ye who enter here.
@@ -27,8 +27,10 @@ Added another dependency
 Added missing file in previous commit
 Added some NullPointerExceptions - Happy easter, you bastards! :D
 Added translation.
+Again with emotion
 All your codebase are belong to us.
 And a commit that I don't know the reason of...
+And if you ask me how I'm feeling
 Another bug bites the dust
 Another commit to keep my CAN streak going.
 Apparently works-for-me is a crappy excuse.
@@ -43,6 +45,7 @@ Blaming regex.
 By works, I meant 'doesnt work'.  Works now..
 COMMIT ALL THE FILES!
 Can someone review this commit, please ?
+Check next commit for message.
 Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
 Code was clean until manager requested to fuck it up
 Commit committed
@@ -69,6 +72,7 @@ Does not work.
 Does this work
 Don't Ask Me, I Have No Idea Why This Works Either
 Don't push this commit
+Don't tell me you're too blind to see
 Done, to whoever merges this, good luck.
 Don’t even try to refactor it.
 Don’t mess with Voodoo
@@ -99,6 +103,8 @@ Fixed some shit
 Fixed the build.
 Fixed the fuck out of #XNUMX!
 Fixed unnecessary bug.
+Fixed everything.
+Fixed what was broken.
 Fixing XNAMEX's bug.
 Fixing XNAMEX's bugs.
 For great justice.
@@ -115,6 +121,7 @@ GIT :/
 General commit (no IDs open) - Modifications for bad implementations
 Give me a break, it's 2am.  But it works now.
 Glue. Match sticks. Paper. Build script!
+Gotta make you understand
 Gross hack because XNAMEX doesn't know how to code
 Handled a particular error.
 Here be Dragons
@@ -151,6 +158,7 @@ I have no idea what I'm doing here.
 I honestly wish I could remember what was going on here...
 I immediately regret this commit.
 I just evaluated random code in my console
+I just wanna tell you how I'm feeling
 I know what I am doing. Trust me.
 I know, I know, this is not how I’m supposed to do it, but I can't think of something better.
 I made leetle mistake
@@ -180,13 +188,16 @@ I'm totally adding this to epic win. +300
 ID:10T Error
 IEize
 If it's hacky and you know it clap you hands (clap clap)!
+If it's stupid and it works, it ain't stupid
 Improving the fix
 Insert Commit Message Here
+Inside we both know what's been going on
 Is there an achievement for this?
 Is there an award for this?
 Issue #XNUM10X is now Issue #XNUM30X
 It Compiles! 50 Points For Gryffindor.
 It compiles! Ship it!
+It fucking compiles \:D/
 It only compiles every XNUM2,5X tries... good luck.
 It was the best of times, it was the worst of times
 It worked for me...
@@ -228,6 +239,13 @@ NOJIRA: No cry
 NSA backdoor - ignore
 Never Run This Commit As Root
 Never before had a small typo like this one caused so much damage.
+Never gonna give you up
+Never gonna give, never gonna give
+Never gonna let you down
+Never gonna make you cry
+Never gonna run around and desert you
+Never gonna say goodbye
+Never gonna tell a lie and hurt you
 Next time someone asks you how to fix an infinite loop, remember this commit
 Nitpicking about alphabetizing methods, minor OCD thing
 No changes after this point.
@@ -250,8 +268,10 @@ One more time, but with feeling.
 Only Tom Cruise knows why.
 Out for vacation... DONT YOU DARE TO CALL ME.
 PEBKAC
+Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
 Pig
 Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
+Please forgive me
 Please no changes this time.
 Popping stash
 Programming the flux capacitor
@@ -306,6 +326,7 @@ This branch is so dirty, even your mom can't clean it.
 This bug has driven lots of coders completely mad. You won't believe how it ended up being fixed
 This bunny should be killed.
 This commit is a lie
+This changes nothing, don't look
 This is a basic implementation that works.
 This is my code. My code is amazing.
 This is not a commit
@@ -340,9 +361,12 @@ Version control is awful
 WHO THE FUCK CAME UP WITH MAKE?
 WTF is this.
 We Had To Use Dark Magic To Make This Work
+We know the game and we're gonna play it
 We should delete this crap before shipping.
 We should get someone from Purdue to do this. They are the boilerplaters.
 We'll figure it out on Monday
+We're no strangers to love
+We've known each other for so long
 Well the book was obviously wrong.
 Well, it's doing something.
 Whatever will be, will be 8{
@@ -354,7 +378,9 @@ Who has two thumbs and remembers the rudiments of his linear algebra courses?  A
 Who knows WTF?!
 Who knows...
 Why The Fuck?
+WIP, always
 Working on tests (haha)
+Working on WIP
 Wubbalubbadubdub!
 XNAMEX broke the regex, lame
 XNAMEX made me do it
@@ -366,8 +392,11 @@ XUPPERNAMEX, WE WENT OVER THIS. EXPANDTAB.
 Yep, XNAMEX was right on this one.
 Yes, I was being sarcastic.
 You can't see it, but I'm making a very angry face right now
+You know the rules and so do I
 You should have trusted me.
+You wouldn't get this from any other guy
 Your commit is writing checks your merge can't cash.
+Your heart's been aching but you're too shy to say it
 [Insert your commit message here. Be sure to make it descriptive.]
 [no message]
 _
@@ -525,6 +554,7 @@ somebody keeps erasing my changes.
 someday I gonna kill someone for this shit...
 someone fails and it isn't me
 sometimes you just herp the derp so hard it herpderps
+speling is difikult
 squash me
 stopped caring XNUM8,23X commits ago
 stuff
@@ -535,6 +565,7 @@ that's all folks
 the magic is real
 these confounded tests drive me nuts
 these guys are flipped
+They came from... Behind
 things occurred
 third time's a charm
 this doesn't really make things faster, but I tried
@@ -564,4 +595,3 @@ workaround for ant being a pile of fail
 yet another quality commit
 yo recipes
 yolo push
-Again with emotion
