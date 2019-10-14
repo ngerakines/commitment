@@ -1,3 +1,10 @@
+# Looking For Sponsors
+
+Enjoying http://whatthecommit.com/ ? Consider becoming a sponsor of this project. Your contributions keep the site running.
+
+https://github.com/users/ngerakines/sponsorship
+
+# About WTC (What The Commit)
 Commitment is a small Tornado application that generates random commit messages.
 
     http://whatthecommit.com/
