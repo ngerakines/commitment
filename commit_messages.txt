@@ -1,4 +1,4 @@
-﻿ - Temporary commit.
+ - Temporary commit.
  ¯\_(ツ)_/¯
 "Get that shit outta my master."
 #GrammarNazi
@@ -67,7 +67,7 @@ Derp, asset redirection in dev mode
 Derp. Fix missing constant post rename
 Derpy hooves
 Do things better, faster, stronger
-Does anyone read this? I'll be at the coffee shop accross the street.
+Does anyone read this? I'll be at the coffee shop across the street.
 Does not work.
 Does this work
 Don't Ask Me, I Have No Idea Why This Works Either
@@ -317,7 +317,7 @@ TODO: write meaningful commit message
 Test commit. Please ignore
 Testing in progress ;)
 Testing the test
-That last commit message about silly mistakes pales in comparision to this one
+That last commit message about silly mistakes pales in comparison to this one
 That's just how I roll
 The dog is eating my code
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
