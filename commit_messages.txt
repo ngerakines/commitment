@@ -278,6 +278,7 @@ Please no changes this time.
 Popping stash
 Programming the flux capacitor
 Push poorly written test can down the road another ten years
+Put everything in its right place
 QuickFix.
 REALLY FUCKING FIXED
 Refactor factories, revisit visitors
