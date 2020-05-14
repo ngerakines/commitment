@@ -197,6 +197,7 @@ ID:10T Error
 IEize
 If it's hacky and you know it clap you hands (clap clap)!
 If it's stupid and it works, it ain't stupid
+Improvements
 Improving the fix
 Insert Commit Message Here
 Inside we both know what's been going on
@@ -421,6 +422,7 @@ _
 a few bits tried to escape, but we caught them
 add actual words
 add dirty scripts from the dark side of the universe
+added code
 added security.
 added some filthy stuff
 added super-widget 2.0.
