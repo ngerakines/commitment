@@ -299,6 +299,7 @@ Removing unecessary stuff
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
 Reticulating splines...
+Revert this commit
 Revert "fuckup".
 Revert "just testing, remember to revert"
 Rush B!
@@ -367,6 +368,7 @@ Trying to fake a conflict
 Ugh. Bad rebase.
 Undoing last comming
 Update .gitignore
+Update commit_messages.txt
 Updated
 Updated build targets.
 Updated framework to the lattest version
