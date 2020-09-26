@@ -79,6 +79,7 @@ Don't tell me you're too blind to see
 Done, to whoever merges this, good luck.
 Don’t even try to refactor it.
 Don’t mess with Voodoo
+Duh
 Easteregg
 Either Hot Shit or Total Bollocks
 Errare humanum est.
