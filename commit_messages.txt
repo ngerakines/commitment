@@ -272,6 +272,7 @@ Out for vacation... DONT YOU DARE TO CALL ME.
 PEBKAC
 Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
 Pig
+Pipeline goes brrrrrrr
 Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
 Please forgive me
 Please no changes this time.
