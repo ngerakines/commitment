@@ -17,6 +17,7 @@ $(rm -rvf .)
 :q!
 <<<<<<<<<<<<<<< HEAD
 ??! what the ...
+[skip ci] I'll fix the build monday
 A fix I believe, not like I tested or anything
 A full commitment's what I'm thinking of
 A long time ago, in a galaxy far far away...
@@ -88,6 +89,7 @@ Final commit, ready for tagging
 Fingers crossed!
 Finished fondling.
 First Blood
+Fix edge, single client, error case
 Fix PC Load Letter Error
 Fix hard-coded [object Object] string (thanks!)
 Fix my stupidness
@@ -289,6 +291,7 @@ Refactored configuration.
 Reinventing the wheel. Again.
 Removed code.
 Removed test case since code didn't pass QA
+Removed the 2gb .hprof file from git history
 Removing unecessary stuff
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
@@ -363,6 +366,7 @@ Undoing last comming
 Update .gitignore
 Updated
 Updated build targets.
+Updated framework to the lattest version
 Use a real JS construct, WTF knows why this works in chromium.
 Useful text
 Version control is awful
