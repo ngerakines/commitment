@@ -85,16 +85,19 @@ class MainHandler(tornado.web.RequestHandler):
         self.output_message(message, message_hash)
 
     def output_message(self, message, message_hash):
+        self.set_header('X-Message-Hash', message_hash)
         self.render('index.html', message=message, message_hash=message_hash)
 
 class PlainTextHandler(MainHandler):
     def output_message(self, message, message_hash):
         self.set_header('Content-Type', 'text/plain')
+        self.set_header('X-Message-Hash', message_hash)
         self.write(xhtml_unescape(message).replace('<br/>', '\n'))
 
 class JsonHandler(MainHandler):
     def output_message(self, message, message_hash):
         self.set_header('Content-Type', 'application/json')
+        self.set_header('X-Message-Hash', message_hash)
         self.write(json.dumps({'hash': message_hash, 'commit_message':message.replace('\n', ''), 'permalink': self.request.protocol + "://" + self.request.host + '/' + message_hash }))
 
 class HumansHandler(tornado.web.RequestHandler):
