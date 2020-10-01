@@ -24,6 +24,7 @@ A long time ago, in a galaxy far far away...
 A tale of Dragons, Heroes and Legends...
 ALL SORTS OF THINGS
 Abandon all hope, ye who enter here.
+Actual final build before release
 Add Sandbox
 Added a banner to the default admin page. Please have mercy on me =(
 Added another dependency
