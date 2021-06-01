@@ -19,6 +19,6 @@ Or use the [WhatTheCommit](https://marketplace.visualstudio.com/items?itemName=G
 
 # License
 
-Copyright (c) 2010-2017 Nick Gerakines <nick@gerakines.net>
+Copyright (c) 2010-2021 Nick Gerakines <nick@gerakines.net>
 
 This project and its contents are open source under the MIT license.
