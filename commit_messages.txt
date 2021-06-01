@@ -480,6 +480,7 @@ fuckup.
 gave up and used tables.
 giggle.
 git + ipynb = :(
+git stash * 
 grmbl
 grrrr
 hacky sack
@@ -530,6 +531,7 @@ oops!
 oops, forgot to add the file
 oopsie B|
 pam anderson is going to love me.
+permanent hack, do not revert
 pay no attention to the man behind the curtain
 pep8 - cause I fell like doing a barrel roll
 pep8 fixer
@@ -537,6 +539,7 @@ perfect...
 pgsql is being a pain
 pgsql is more strict, increase the hackiness up to 11
 pointless limitation
+pr is failing but merging anyways, because I am an admin
 project lead is allergic to changes...
 put code that worked where the code that didn't used to be
 rats
