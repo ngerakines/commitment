@@ -15,13 +15,15 @@ $(rm -rvf .)
 8==========D
 :(:(
 :q!
-<<<<<<<<<<<<<<< HEAD
 ??! what the ...
+[skip ci] I'll fix the build monday
 A fix I believe, not like I tested or anything
 A full commitment's what I'm thinking of
 A long time ago, in a galaxy far far away...
+A tale of Dragons, Heroes and Legends...
 ALL SORTS OF THINGS
 Abandon all hope, ye who enter here.
+Actual final build before release
 Add Sandbox
 Added a banner to the default admin page. Please have mercy on me =(
 Added another dependency
@@ -76,6 +78,7 @@ Don't tell me you're too blind to see
 Done, to whoever merges this, good luck.
 Don’t even try to refactor it.
 Don’t mess with Voodoo
+Duh
 Easteregg
 Either Hot Shit or Total Bollocks
 Errare humanum est.
@@ -87,6 +90,7 @@ Final commit, ready for tagging
 Fingers crossed!
 Finished fondling.
 First Blood
+Fix edge, single client, error case
 Fix PC Load Letter Error
 Fix hard-coded [object Object] string (thanks!)
 Fix my stupidness
@@ -136,6 +140,7 @@ Hide those navs, boi!
 I CAN HAZ COMMENTZ.
 I CAN HAZ PYTHON, I CAN HAZ INDENTS
 I __ a word
+I already said I was sorry
 I am Root. We are Root.
 I am Spartacus
 I am even stupider than I thought
@@ -174,6 +179,7 @@ I transformed a bug into a feature. Once you learn how, you'll never forget it
 I was told to leave it alone, but I have this thing called OCD, you see
 I was wrong...
 I will not apologize for art.
+I will run 'terraform fmt' before committing.
 I would rather be playing SC2.
 I'M PUSHING.
 I'll explain this when I'm sober .. or revert it
@@ -190,6 +196,7 @@ ID:10T Error
 IEize
 If it's hacky and you know it clap you hands (clap clap)!
 If it's stupid and it works, it ain't stupid
+Improvements
 Improving the fix
 Insert Commit Message Here
 Inside we both know what's been going on
@@ -272,12 +279,15 @@ Out for vacation... DONT YOU DARE TO CALL ME.
 PEBKAC
 Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
 Pig
+Pipeline goes brrrrrrr
 Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
 Please forgive me
 Please no changes this time.
+Please our Lord and Savior the Great Linter.
 Popping stash
 Programming the flux capacitor
 Push poorly written test can down the road another ten years
+Put everything in its right place
 QuickFix.
 REALLY FUCKING FIXED
 Refactor factories, revisit visitors
@@ -285,16 +295,19 @@ Refactored configuration.
 Reinventing the wheel. Again.
 Removed code.
 Removed test case since code didn't pass QA
+Removed the 2gb .hprof file from git history
 Removing unecessary stuff
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
 Reticulating splines...
+Revert this commit
 Revert "fuckup".
 Revert "just testing, remember to revert"
 Rush B!
 SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
 SHIT ===> GOLD
 SOAP is a piece of shit
+Saint Pipeline, please give me the green light
 Same as last commit with changes
 See last commit
 Shit code!
@@ -322,6 +335,7 @@ That's just how I roll
 The dog is eating my code
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
 The same thing we do every night, Pinky - try to take over the world!
+The universe is possible
 Things went wrong...
 This Is Why We Don't Push To Production On Fridays
 This branch is so dirty, even your mom can't clean it.
@@ -355,8 +369,10 @@ Trying to fake a conflict
 Ugh. Bad rebase.
 Undoing last comming
 Update .gitignore
+Update commit_messages.txt
 Updated
 Updated build targets.
+Updated framework to the lattest version
 Use a real JS construct, WTF knows why this works in chromium.
 Useful text
 Version control is awful
@@ -381,6 +397,7 @@ Who knows WTF?!
 Who knows...
 Why The Fuck?
 WIP, always
+WIPTF
 Working on tests (haha)
 Working on WIP
 Wubbalubbadubdub!
@@ -405,6 +422,7 @@ _
 a few bits tried to escape, but we caught them
 add actual words
 add dirty scripts from the dark side of the universe
+added code
 added security.
 added some filthy stuff
 added super-widget 2.0.
@@ -479,6 +497,7 @@ fuckup.
 gave up and used tables.
 giggle.
 git + ipynb = :(
+git stash * 
 grmbl
 grrrr
 hacky sack
@@ -529,6 +548,7 @@ oops!
 oops, forgot to add the file
 oopsie B|
 pam anderson is going to love me.
+permanent hack, do not revert
 pay no attention to the man behind the curtain
 pep8 - cause I fell like doing a barrel roll
 pep8 fixer
@@ -536,6 +556,7 @@ perfect...
 pgsql is being a pain
 pgsql is more strict, increase the hackiness up to 11
 pointless limitation
+pr is failing but merging anyways, because I am an admin
 project lead is allergic to changes...
 put code that worked where the code that didn't used to be
 rats
@@ -602,4 +623,6 @@ starting the service is always better
 Fix all errors, all errors on the WORLD!!!!
 god help us all
 lets drink beer
+trying to do something right!
+Oh my god what year is it?!
 dope
