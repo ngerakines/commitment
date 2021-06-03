@@ -3,6 +3,7 @@ import sys
 import random
 import re
 import json
+from typing import Dict, List
 
 try:
     from hashlib import md5
@@ -24,14 +25,16 @@ names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
 
 humans_file = os.path.join(os.path.dirname(__file__), 'static', 'humans.txt')
 messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
-messages = {}
+messages: Dict[str, str] = {}
 
 # Create a hash table of all commit messages
-with open(messages_file) as messages_input:
+with open(messages_file, 'r', encoding='utf-8') as messages_input:
     for line in messages_input.readlines():
-        messages[md5(line).hexdigest()] = line
+        messages[md5(line.encode('utf-8')).hexdigest()] = line
 
-with open(humans_file) as humans_input:
+names: List[str] = []
+
+with open(humans_file, 'r', encoding='utf-8') as humans_input:
     humans_content = humans_input.read()
     for line in humans_content.split("\n"):
         if "Name:" in line:
@@ -40,6 +43,8 @@ with open(humans_file) as humans_input:
                 names.append(data[7:])
             else:
                 names.append(data.split(" ")[0])
+
+print(names)
 
 num_re = re.compile(r"XNUM([0-9,]*)X")
 
@@ -76,7 +81,7 @@ def fill_line(message):
 class MainHandler(tornado.web.RequestHandler):
     def get(self, message_hash=None):
         if not message_hash:
-            message_hash = random.choice(messages.keys())
+            message_hash = random.choice(list(messages.keys()))
         elif message_hash not in messages:
             raise tornado.web.HTTPError(404)
 
@@ -85,16 +90,19 @@ class MainHandler(tornado.web.RequestHandler):
         self.output_message(message, message_hash)
 
     def output_message(self, message, message_hash):
+        self.set_header('X-Message-Hash', message_hash)
         self.render('index.html', message=message, message_hash=message_hash)
 
 class PlainTextHandler(MainHandler):
     def output_message(self, message, message_hash):
         self.set_header('Content-Type', 'text/plain')
+        self.set_header('X-Message-Hash', message_hash)
         self.write(xhtml_unescape(message).replace('<br/>', '\n'))
 
 class JsonHandler(MainHandler):
     def output_message(self, message, message_hash):
         self.set_header('Content-Type', 'application/json')
+        self.set_header('X-Message-Hash', message_hash)
         self.write(json.dumps({'hash': message_hash, 'commit_message':message.replace('\n', ''), 'permalink': self.request.protocol + "://" + self.request.host + '/' + message_hash }))
 
 class HumansHandler(tornado.web.RequestHandler):
