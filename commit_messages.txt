@@ -15,7 +15,6 @@ $(rm -rvf .)
 8==========D
 :(:(
 :q!
-<<<<<<<<<<<<<<< HEAD
 ??! what the ...
 [skip ci] I'll fix the build monday
 A fix I believe, not like I tested or anything
@@ -626,4 +625,5 @@ god help us all
 lets drink beer
 trying to do something right!
 Oh my god what year is it?!
+dope
 f
