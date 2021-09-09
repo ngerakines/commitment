@@ -177,6 +177,7 @@ I should get a raise for this.
 I should have had a V8 this morning.
 I think now it works
 I transformed a bug into a feature. Once you learn how, you'll never forget it
+I understand that it's an antipattern, but it's convenient.
 I was told to leave it alone, but I have this thing called OCD, you see
 I was wrong...
 I will not apologize for art.
