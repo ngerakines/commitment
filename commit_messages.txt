@@ -628,3 +628,14 @@ trying to do something right!
 Oh my god what year is it?!
 dope
 f
+ci test
+fixing project shit
+a lot of shit
+making code less cancer
+finished and fuck you
+increased loading time by a bit
+50/50
+improved function
+should get thru ci now
+accidental commit
+added message
