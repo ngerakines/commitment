@@ -15,7 +15,6 @@ $(rm -rvf .)
 8==========D
 :(:(
 :q!
-<<<<<<<<<<<<<<< HEAD
 ??! what the ...
 [skip ci] I'll fix the build monday
 A fix I believe, not like I tested or anything
@@ -40,6 +39,7 @@ Apparently works-for-me is a crappy excuse.
 Argh! About to give up :(
 Arrrrgggg
 At times like this I wish I was a Garbage Man.
+Automate Accounting
 Batman! (this commit has no parents)
 Become a programmer, they said. It'll be fun, they said.
 Best commit ever
@@ -241,6 +241,7 @@ Merging 'WIP: Do Not Merge This Branch' Into Master
 Merging the merge
 Minor updates
 Misc. fixes
+Mongo.db was empty, filled now with good stuff
 More ignore
 Moved something to somewhere... goodnight...
 My bad
@@ -388,6 +389,7 @@ We're no strangers to love
 We've known each other for so long
 Well the book was obviously wrong.
 Well, it's doing something.
+What happens in vegas stays in vegas
 Whatever will be, will be 8{
 Whatever.
 Whee, good night.
@@ -475,6 +477,7 @@ eppic fail XNAMEX
 extra debug for stuff module
 fail
 ffs
+features
 final commit.
 first blush
 fix
@@ -639,3 +642,13 @@ should get thru ci now
 accidental commit
 added message
 implemented missing semicolon
+git please work
+Revert "git please work"
+you do wanna make me cry and i wanna say goodbye
+who hurt you
+i need therapy
+he knows.
+enabled ultra instinct
+i hid an easter egg in the code. can you find it?
+try our sister game minceraft!
+who has two thumbs and is a genius? not this guy!
