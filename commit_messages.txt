@@ -1,4 +1,3 @@
-﻿ - Temporary commit.
  ¯\_(ツ)_/¯
 "Get that shit outta my master."
 #GrammarNazi
@@ -11,12 +10,12 @@ $(rm -rvf .)
 .
 ...
 /sigh
+50/50
 640K ought to be enough for anybody
 8==========D
 :(:(
 :q!
 ??! what the ...
-[skip ci] I'll fix the build monday
 A fix I believe, not like I tested or anything
 A full commitment's what I'm thinking of
 A long time ago, in a galaxy far far away...
@@ -91,8 +90,9 @@ Final commit, ready for tagging
 Fingers crossed!
 Finished fondling.
 First Blood
-Fix edge, single client, error case
 Fix PC Load Letter Error
+Fix all errors, all errors on the WORLD!!!!
+Fix edge, single client, error case
 Fix hard-coded [object Object] string (thanks!)
 Fix my stupidness
 Fix the fixes
@@ -102,13 +102,13 @@ Fixed a bug in NoteLineCount... not seriously...
 Fixed a little bug...
 Fixed compilation errors
 Fixed errors
+Fixed everything.
 Fixed mispeling
 Fixed so the code compiles
 Fixed some shit
 Fixed the build.
 Fixed the fuck out of #XNUMX!
 Fixed unnecessary bug.
-Fixed everything.
 Fixed what was broken.
 Fixing XNAMEX's bug.
 Fixing XNAMEX's bugs.
@@ -123,8 +123,8 @@ Fucking submodule bull shit
 Fucking templates.
 Future self, please forgive me and don't hit me with the baseball bat again!
 GIT :/
-Git wants e to commit, I want to sleep. Take me sweet void.
 General commit (no IDs open) - Modifications for bad implementations
+Git wants e to commit, I want to sleep. Take me sweet void.
 Give me a break, it's 2am.  But it works now.
 Glue. Match sticks. Paper. Build script!
 Gotta make you understand
@@ -222,10 +222,10 @@ It's secret!
 It's time to go home
 Just committing so I can go home
 Just stop reading these for a while, ok..
-Landed.
 LAST time, XNAMEX, /dev/urandom IS NOT a variable name generator...
 LOL!
 LOTS of changes. period
+Landed.
 Last time I said it works? I was kidding.  Try this.
 Locating the required gigapixels to render...
 Lock S-foils in attack position
@@ -271,6 +271,7 @@ Now added delete for real
 Now it's all microservices, I hope the fad persists.
 Now we tell you your browser sucks in your native tongue.
 Obligatory placeholder commit message
+Oh my god what year is it?!
 Oh no
 Ok
 Ok, 5am, it works.  For real.
@@ -303,9 +304,10 @@ Removing unecessary stuff
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
 Reticulating splines...
-Revert this commit
 Revert "fuckup".
+Revert "git please work"
 Revert "just testing, remember to revert"
+Revert this commit
 Rush B!
 SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
 SHIT ===> GOLD
@@ -339,13 +341,14 @@ The dog is eating my code
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
 The same thing we do every night, Pinky - try to take over the world!
 The universe is possible
+They came from... Behind
 Things went wrong...
 This Is Why We Don't Push To Production On Fridays
 This branch is so dirty, even your mom can't clean it.
 This bug has driven lots of coders completely mad. You won't believe how it ended up being fixed
 This bunny should be killed.
-This commit is a lie
 This changes nothing, don't look
+This commit is a lie
 This is a basic implementation that works.
 This is my code. My code is amazing.
 This is not a commit
@@ -380,6 +383,8 @@ Use a real JS construct, WTF knows why this works in chromium.
 Useful text
 Version control is awful
 WHO THE FUCK CAME UP WITH MAKE?
+WIP, always
+WIPTF
 WTF is this.
 We Had To Use Dark Magic To Make This Work
 We know the game and we're gonna play it
@@ -400,10 +405,8 @@ Who has two thumbs and remembers the rudiments of his linear algebra courses?  A
 Who knows WTF?!
 Who knows...
 Why The Fuck?
-WIP, always
-WIPTF
-Working on tests (haha)
 Working on WIP
+Working on tests (haha)
 Wubbalubbadubdub!
 XNAMEX broke the regex, lame
 XNAMEX made me do it
@@ -422,11 +425,15 @@ Your commit is writing checks your merge can't cash.
 Your heart's been aching but you're too shy to say it
 [Insert your commit message here. Be sure to make it descriptive.]
 [no message]
+[skip ci] I'll fix the build monday
 _
 a few bits tried to escape, but we caught them
+a lot of shit
+accidental commit
 add actual words
 add dirty scripts from the dark side of the universe
 added code
+added message
 added security.
 added some filthy stuff
 added super-widget 2.0.
@@ -457,6 +464,7 @@ bumping poms
 c&p fail
 changed things...
 changes
+ci test
 clarify further the brokenness of C++. why the fuck are we using C++?
 commented out failing tests
 commit
@@ -473,12 +481,15 @@ dirty hack, have a better idea ?
 does it work? maybe. will I check? no.
 doh.
 done. going to bed now.
+dope
+enabled ultra instinct
 epic
 eppic fail XNAMEX
 extra debug for stuff module
+f
 fail
-ffs
 features
+ffs
 final commit.
 first blush
 fix
@@ -493,6 +504,7 @@ fixed shit that havent been fixed in last commit
 fixed some minor stuff, might need some additional work.
 fixed the israeli-palestinian conflict
 fixes
+fixing project shit
 foo
 forgot to save that file
 forgot we're not using a smart language
@@ -502,12 +514,15 @@ fuckup.
 gave up and used tables.
 giggle.
 git + ipynb = :(
+git please work
 git stash * 
+god help us all
 grmbl
 grrrr
 hacky sack
 happy monday _ bleh _
 harharhar
+he knows.
 herpderp
 herpderp (redux)
 hey, look over there!
@@ -515,9 +530,14 @@ hey, what's that over there?!
 hmmm
 hoo boy
 i dunno, maybe this works
+i hid an easter egg in the code. can you find it?
+i need therapy
 i think i fixed a bug...
 if you're not using et, fuck off
+implemented missing semicolon
+improved function
 include shit
+increased loading time by a bit
 it is hump day _^_
 it's friday
 jobs... steve jobs
@@ -526,12 +546,14 @@ just shoot me
 just trolling the repo
 last minute fixes.
 less french words
+lets drink beer
 lol
 lol digg
 lolwhat?
 lots and lots of changes
 lots of changes after a lot of time
 magic, have no clue but it works
+making code less cancer
 making this thing actually usable.
 marks
 mergeconflix is the new hottest Gaul on the block
@@ -553,11 +575,11 @@ oops!
 oops, forgot to add the file
 oopsie B|
 pam anderson is going to love me.
-permanent hack, do not revert
 pay no attention to the man behind the curtain
 pep8 - cause I fell like doing a barrel roll
 pep8 fixer
 perfect...
+permanent hack, do not revert
 pgsql is being a pain
 pgsql is more strict, increase the hackiness up to 11
 pointless limitation
@@ -566,6 +588,7 @@ project lead is allergic to changes...
 put code that worked where the code that didn't used to be
 rats
 really ignore ignored worsd
+refuckulated the carbonator
 remove certain things and added stuff
 remove debug<br/>all good
 removed echo and die statements, lolz.
@@ -574,6 +597,7 @@ removing unit tests
 restored deleted entities just to be sure
 s/    /  /g
 s/import/include/
+should get thru ci now
 should work I guess...
 should work now.
 small is a real HTML tag, who knew.
@@ -584,6 +608,7 @@ someone fails and it isn't me
 sometimes you just herp the derp so hard it herpderps
 speling is difikult
 squash me
+starting the service is always better
 stopped caring XNUM8,23X commits ago
 stuff
 syntax
@@ -593,7 +618,6 @@ that's all folks
 the magic is real
 these confounded tests drive me nuts
 these guys are flipped
-They came from... Behind
 things occurred
 third time's a charm
 this doesn't really make things faster, but I tried
@@ -605,6 +629,8 @@ this should fix it
 tl;dr
 totally more readable
 touched...
+try our sister game minceraft!
+trying to do something right!
 tunning
 typo
 uhhhhhh
@@ -614,6 +640,8 @@ various changes
 well crap.
 what the hell happened here
 whatthecommit.com’s server IP address could not be found.
+who has two thumbs and is a genius? not this guy!
+who hurt you
 whooooooooooooooooooooooooooo
 why is everything broken
 wip
@@ -623,33 +651,5 @@ workaround for ant being a pile of fail
 yet another quality commit
 yo recipes
 yolo push
-refuckulated the carbonator
-starting the service is always better
-Fix all errors, all errors on the WORLD!!!!
-god help us all
-lets drink beer
-trying to do something right!
-Oh my god what year is it?!
-dope
-f
-ci test
-fixing project shit
-a lot of shit
-making code less cancer
-increased loading time by a bit
-50/50
-improved function
-should get thru ci now
-accidental commit
-added message
-implemented missing semicolon
-git please work
-Revert "git please work"
 you do wanna make me cry and i wanna say goodbye
-who hurt you
-i need therapy
-he knows.
-enabled ultra instinct
-i hid an easter egg in the code. can you find it?
-try our sister game minceraft!
-who has two thumbs and is a genius? not this guy!
+﻿ - Temporary commit.
