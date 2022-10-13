@@ -15,7 +15,6 @@ $(rm -rvf .)
 8==========D
 :(:(
 :q!
-<<<<<<<<<<<<<<< HEAD
 ??! what the ...
 [skip ci] I'll fix the build monday
 A fix I believe, not like I tested or anything
@@ -241,6 +240,7 @@ Merging 'WIP: Do Not Merge This Branch' Into Master
 Merging the merge
 Minor updates
 Misc. fixes
+Mongo.db was empty, filled now with good stuff
 More ignore
 Moved something to somewhere... goodnight...
 My bad
@@ -475,6 +475,7 @@ eppic fail XNAMEX
 extra debug for stuff module
 fail
 ffs
+features
 final commit.
 first blush
 fix
@@ -630,3 +631,11 @@ dope
 f
 git please work
 Revert "git please work"
+you do wanna make me cry and i wanna say goodbye
+who hurt you
+i need therapy
+he knows.
+enabled ultra instinct
+i hid an easter egg in the code. can you find it?
+try our sister game minceraft!
+who has two thumbs and is a genius? not this guy!
