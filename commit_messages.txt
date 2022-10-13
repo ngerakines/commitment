@@ -631,6 +631,17 @@ trying to do something right!
 Oh my god what year is it?!
 dope
 f
+ci test
+fixing project shit
+a lot of shit
+making code less cancer
+increased loading time by a bit
+50/50
+improved function
+should get thru ci now
+accidental commit
+added message
+implemented missing semicolon
 git please work
 Revert "git please work"
 you do wanna make me cry and i wanna say goodbye
