@@ -186,6 +186,7 @@ I would rather be playing SC2.
 I'M PUSHING.
 I'll explain this when I'm sober .. or revert it
 I'll explain when you're older!
+I'll mention this again, if you're git-blaming this, don't come slap me personally. This code straight ported from another project and we WILL refactor this in the future. This is a temporary solution. OK I guess you can slap me for porting this as is, but still.
 I'm guessing this may start causing us problems either soon or never.
 I'm human
 I'm hungry
