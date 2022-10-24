@@ -3,12 +3,10 @@ import sys
 import random
 import re
 import json
+import signal
 from typing import Dict, List
 
-try:
-    from hashlib import md5
-except ImportError:
-    from md5 import md5
+from hashlib import md5
 
 import tornado.httpserver
 import tornado.ioloop
@@ -43,8 +41,6 @@ with open(humans_file, 'r', encoding='utf-8') as humans_input:
                 names.append(data[7:])
             else:
                 names.append(data.split(" ")[0])
-
-print(names)
 
 num_re = re.compile(r"XNUM([0-9,]*)X")
 
@@ -110,11 +106,21 @@ class HumansHandler(tornado.web.RequestHandler):
         self.set_header('Content-Type', 'text/plain')
         self.write(humans_content)
 
+class CommitmentApplication(tornado.web.Application):
+    is_closing = False
+
+    def signal_handler(self, signum, frame):
+        self.is_closing = True
+
+    def try_exit(self):
+        if self.is_closing:
+            tornado.ioloop.IOLoop.instance().stop()
+
 settings = {
     'static_path': os.path.join(os.path.dirname(__file__), 'static'),
 }
 
-application = tornado.web.Application([
+application = CommitmentApplication([
     (r'/', MainHandler),
     (r'/([a-z0-9]+)', MainHandler),
     (r'/index.json', JsonHandler),
@@ -126,6 +132,8 @@ application = tornado.web.Application([
 
 if __name__ == '__main__':
     tornado.options.parse_command_line()
+    signal.signal(signal.SIGINT, application.signal_handler)
     http_server = tornado.httpserver.HTTPServer(application)
     http_server.listen(os.environ.get("PORT", 5000))
+    tornado.ioloop.PeriodicCallback(application.try_exit, 100).start()
     tornado.ioloop.IOLoop.instance().start()
