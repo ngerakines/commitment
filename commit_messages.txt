@@ -138,6 +138,7 @@ Herping the derp derp (silly scoping error)
 Herping the fucking derp right here and now.
 Herpy dooves.
 Hide those navs, boi!
+Hiding API key hahaha
 I CAN HAZ COMMENTZ.
 I CAN HAZ PYTHON, I CAN HAZ INDENTS
 I __ a word
