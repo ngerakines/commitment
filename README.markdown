@@ -15,7 +15,10 @@ Some interesting usage for that can be:
 git config --global alias.yolo '!git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
 ```
 
-Or use the [WhatTheCommit](https://marketplace.visualstudio.com/items?itemName=Gaardsholt.vscode-whatthecommit) vscode extension
+Or use one of the following VSCode Extensions:
+
+- [WhatTheCommit](https://marketplace.visualstudio.com/items?itemName=Gaardsholt.vscode-whatthecommit) 
+- [yoloCommit](https://marketplace.visualstudio.com/items?itemName=JohnStilia.yolocommit)
 
 # License
 
