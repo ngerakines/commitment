@@ -1,57 +1,107 @@
+ - Temporary commit.
  ¯\_(ツ)_/¯
-"Get that shit outta my master."
-#GrammarNazi
-$(init 0)
-$(rm -rvf .)
-(\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
-(c) Microsoft 1988
+_
 --help
 -m \'So I hear you like commits ...\'
-.
-...
-/sigh
-50/50
-640K ought to be enough for anybody
-8==========D
 :(:(
 :q!
 ??! what the ...
+.
+...
+"Get that shit outta my master."
+(\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
+(c) Microsoft 1988
 [FIX] asdf
+[Insert your commit message here. Be sure to make it descriptive.]
+[no message]
+[skip ci] I'll fix the build monday
+/sigh
+#GrammarNazi
+$(init 0)
+$(rm -rvf .)
+50/50
+640K ought to be enough for anybody
+8==========D
+a few bits tried to escape, but we caught them
 A fix I believe, not like I tested or anything
 A full commitment's what I'm thinking of
 A long time ago, in a galaxy far far away...
+a lot of shit
 A tale of Dragons, Heroes and Legends...
-ALL SORTS OF THINGS
 Abandon all hope, ye who enter here.
+accidental commit
 Actual final build before release
+add actual words
+add dirty scripts from the dark side of the universe
 Add Sandbox
 Added a banner to the default admin page. Please have mercy on me =(
 Added another dependency
+added code
+added message
 Added missing file in previous commit
+added security.
+added some filthy stuff
 Added some NullPointerExceptions - Happy easter, you bastards! :D
+added super-widget 2.0.
 Added translation.
+after of this commit remember do a git reset hard
+ajax-loader hotness, oh yeah
+ALL SORTS OF THINGS
 All your codebase are belong to us.
+and a comma
 And a commit that I don't know the reason of...
-And if you ask me how I'm feeling
 And if thou'rt unwilling, then force I'll employ
+And if you ask me how I'm feeling
+and so the crazy refactoring process sees the sunlight after some months in the dark!
+another big bag of changes
 Another bug bites the dust
 Another commit to keep my CAN streak going.
+Another one bites the dust - Resolved an issue
+apparently i did something…
 Apparently works-for-me is a crappy excuse.
 Argh! About to give up :(
+arrgghh... damn this thing for not working.
+arrrggghhhhh fixed!
 Arrrrgggg
+asdfasdfasdfasdfasdfasdfadsf
+assorted changes
 At times like this I wish I was a Garbage Man.
 Automate Accounting
+bad things happen when you forget about that one little change you made ages ago
+bara bra grejjor
 Batman! (this commit has no parents)
 Become a programmer, they said. It'll be fun, they said.
 Best commit ever
+better code
+better grepping
+better ignores
+betterer code
+bifurcation
 Bit Bucket is down. What should I do now?
+bla
 Blaming regex.
+Breaking all the things - Massive refactoring
+breathe, =, breathe
+buenas those-things.
+bug fix
+bugger
+bump to 0.0.3-dev:wq
+bumping poms
 By works, I meant 'doesnt work'.  Works now..
-COMMIT ALL THE FILES!
+c&p fail
 Can someone review this commit, please ?
+Carpe diem - Seizing the day and pushing new code
+changed things...
+changes
 Check next commit for message.
 Chuck Norris Emailed Me This Patch... I'm Not Going To Question It
+ci test
+clarify further the brokenness of C++. why the fuck are we using C++?
 Code was clean until manager requested to fuck it up
+Coffee-fueled frenzy - Implemented after late-night brainstorm
+commented out failing tests
+commit
+COMMIT ALL THE FILES!
 Commit committed
 Commit committed....
 Committed some changes
@@ -59,99 +109,178 @@ Committing fixes in the dark, seriously, who killed my power!?
 Committing in accordance with the prophecy.
 Completed with no bugs...
 Continued development...
+copy and paste is not a design pattern
 Copy pasta fail. still had a instead of a
 Copy-paste to fix previous copy-paste
 Corrected mistakes
 Crap. Tonight is raid night and I am already late.
+Ctrl+C, Ctrl+V - Copy-pasted some code
+de-misunderestimating
 DEAL WITH IT
-DNS_PROBE_FINISHED_NXDOMAIN
+debug line test
+debug suff
+debugo
 Deleted API file
 Derp
 Derp search/replace fuckup
 Derp, asset redirection in dev mode
+derp, helper method rename
 Derp. Fix missing constant post rename
+derpherp
 Derpy hooves
+diaaaaaazeeeeeeeeeepam
+did everything
+dirty hack, have a better idea ?
+DNS_PROBE_FINISHED_NXDOMAIN
 Do things better, faster, stronger
 Does anyone read this? I'll be at the coffee shop accross the street.
+does it work? maybe. will I check? no.
 Does not work.
 Does this work
+doh.
 Don't Ask Me, I Have No Idea Why This Works Either
+Don't judge me - Implemented messy solution
 Don't push this commit
 Don't tell me you're too blind to see
-Done, to whoever merges this, good luck.
 Don’t even try to refactor it.
 Don’t mess with Voodoo
+Done, to whoever merges this, good luck.
+done. going to bed now.
+dope
+download half the damn internet to parse a pdf
 Duh
 Easteregg
 Either Hot Shit or Total Bollocks
+enabled ultra instinct
+epic
+eppic fail XNAMEX
 Errare humanum est.
-FONDLED THE CODE
-FOR REAL.
-FUCKING XUPPERNAMEX
+extra debug for stuff module
+f
+fail
+features
 Feed. You. Stuff. No time.
+ffs
+Final commit, promise - Last minute bug fixes
 Final commit, ready for tagging
+final commit.
+Fingers crossed - Hoping for the best with this commit
 Fingers crossed!
 Finished fondling.
 First Blood
-Fix PC Load Letter Error
+first blush
+fix
+fix /sigh
 Fix all errors, all errors on the WORLD!!!!
+fix bug, for realz
 Fix edge, single client, error case
 Fix hard-coded [object Object] string (thanks!)
 Fix my stupidness
+Fix PC Load Letter Error
+fix some fucking errors
+fix that damn sign!!!
 Fix the fixes
-Fixed Bug
+fix tpyo
 Fixed a bug cause XNAMEX said to
 Fixed a bug in NoteLineCount... not seriously...
 Fixed a little bug...
+Fixed Bug
 Fixed compilation errors
+fixed conflicts (LOL merge -s ours; push -f)
 Fixed errors
+fixed errors in the previous commit
 Fixed everything.
 Fixed mispeling
+fixed mistaken bug
+fixed shit that havent been fixed in last commit
 Fixed so the code compiles
+fixed some minor stuff, might need some additional work.
 Fixed some shit
 Fixed the build.
 Fixed the fuck out of #XNUMX!
+fixed the israeli-palestinian conflict
 Fixed unnecessary bug.
 Fixed what was broken.
+fixes
+fixing project shit
 Fixing XNAMEX's bug.
 Fixing XNAMEX's bugs.
+FONDLED THE CODE
+foo
 For great justice.
 For real, this time.
+FOR REAL.
 For the sake of my sanity, just ignore this...
 For the statistics only
+forgot a contact page woops haha
+forgot to save that file
+forgot we're not using a smart language
+formatted all
+freemasonry
 Friday 5pm
 Fuck it, YOLO!
 Fucking egotistical bastard. adds expandtab to vimrc
 Fucking submodule bull shit
 Fucking templates.
+FUCKING XUPPERNAMEX
+fuckup.
 Future self, please forgive me and don't hit me with the baseball bat again!
-GIT :/
+gave up and used tables.
 General commit (no IDs open) - Modifications for bad implementations
+giggle.
+GIT :/
+git + ipynb = :(
+git please work
+git stash * 
 Git wants e to commit, I want to sleep. Take me sweet void.
 Give me a break, it's 2am.  But it works now.
 Glue. Match sticks. Paper. Build script!
+god help us all
 Gotta make you understand
+grmbl
 Gross hack because XNAMEX doesn't know how to code
+grrrr
+hacky sack
+haha yes it works now
 Handled a particular error.
+happy monday _ bleh _
+harharhar
+he knows.
 Here be Dragons
+Here be dragons - Found the bug, releasing the fix
 Herp derp I left the debug in there and forgot to reset errors.
+herpderp
+herpderp (redux)
 Herpderp, shoulda check if it does really compile.
 Herping the derp
 Herping the derp derp (silly scoping error)
 Herping the fucking derp right here and now.
 Herpy dooves.
+hey, look over there!
+hey, what's that over there?!
 Hide those navs, boi!
 Hiding API key hahaha
-I CAN HAZ COMMENTZ.
-I CAN HAZ PYTHON, I CAN HAZ INDENTS
+hmmm
+Hold my beer - Testing risky changes
+Hold on to your butts - Making major changes
+holy shit it's functional
+hoo boy
+hopefully going to get a successful build got damn it
+Houston, problem solved - Fixed the bug
+Houston, we have a problem - Found a bug
 I __ a word
 I already said I was sorry
-I am Root. We are Root.
-I am Spartacus
 I am even stupider than I thought
+I am Groot - Made a small but important change
+I am one with the Force, the Force is with me - Hopeful commit before testing
+I am Root. We are Root.
 I am sorry
+I am Spartacus
 I am the greatest javascript developer in the world.
+I CAN HAZ COMMENTZ.
+I CAN HAZ PYTHON, I CAN HAZ INDENTS
 I can't believe it took so long to fix this.
+I can't believe this works - Quick and dirty fix
 I cannot believe that it took this long to write a test for this.
 I did it for the lulz!
 I don't believe it
@@ -161,11 +290,15 @@ I don't know what the hell I was thinking.
 I don't know what these changes are supposed to accomplish but somebody told me to make them.
 I don't know why. Just move on.
 I dont know what I am doing
+i dunno, maybe this works
 I expected something different.
+I find your lack of tests disturbing - Encouraging better testing practices
 I forgot to commit... So here you go.
 I had a cup of tea and now it's fixed
 I hate this fucking language.
+I have a bad feeling about this - Pushing potentially problematic changes
 I have no idea what I'm doing here.
+i hid an easter egg in the code. can you find it?
 I honestly wish I could remember what was going on here...
 I immediately regret this commit.
 I just evaluated random code in my console
@@ -176,9 +309,13 @@ I made leetle mistake
 I must enjoy torturing myself
 I must have been drunk.
 I must sleep... it's working... in just three hours...
+i need therapy
 I really should've committed this when I finished it...
 I should get a raise for this.
 I should have had a V8 this morning.
+I solemnly swear that I am up to no good - Implemented secret feature
+I swear it's not a virus - Implementing security measures
+i think i fixed a bug...
 I think now it works
 I transformed a bug into a feature. Once you learn how, you'll never forget it
 I understand that it's an antipattern, but it's convenient.
@@ -187,7 +324,7 @@ I was wrong...
 I will not apologize for art.
 I will run 'terraform fmt' before committing.
 I would rather be playing SC2.
-I'M PUSHING.
+I'll be back - Commit before taking a break
 I'll explain this when I'm sober .. or revert it
 I'll explain when you're older!
 I'll mention this again, if you're git-blaming this, don't come slap me personally. This code straight ported from another project and we WILL refactor this in the future. This is a temporary solution. OK I guess you can slap me for porting this as is, but still.
@@ -195,16 +332,23 @@ I'm guessing this may start causing us problems either soon or never.
 I'm human
 I'm hungry
 I'm just a grunt. Don't blame me for this awful PoS.
+I'M PUSHING.
 I'm sorry.
 I'm too foo for this bar
 I'm too old for this shit!
 I'm totally adding this to epic win. +300
+I've got a bad case of commit-ment issues - Frequent small commits
 ID:10T Error
 IEize
 If it's hacky and you know it clap you hands (clap clap)!
 If it's stupid and it works, it ain't stupid
+if you're not using et, fuck off
+implemented missing semicolon
+improved function
 Improvements
 Improving the fix
+include shit
+increased loading time by a bit
 Insert Commit Message Here
 Inside we both know what's been going on
 Is there an achievement for this?
@@ -213,48 +357,82 @@ Issue #XNUM10X is now Issue #XNUM30X
 It Compiles! 50 Points For Gryffindor.
 It compiles! Ship it!
 It fucking compiles \:D/
+it is hump day _^_
 It only compiles every XNUM2,5X tries... good luck.
+It was a dark and stormy night... - Late night coding session
 It was the best of times, it was the worst of times
 It worked for me...
 It works on my computer
 It works!
 It'd be nice if type errors caused the compiler to issue a type error
 It's 2016; why are we using ColdFusion?!
-It's Working!
+It's alive! - Brought new feature to life
+it's friday
 It's getting hard to keep up with the crap I've trashed
+It's just a flesh wound - Addressing minor issues
 It's possible! you can turn a 50-line code chunk into just 3 lines. Here's how
 It's secret!
 It's time to go home
+It's Working!
+jobs... steve jobs
+just checking if git is working properly...
 Just committing so I can go home
+Just keep swimming - Persisting through a challenging task
+just shoot me
 Just stop reading these for a while, ok..
-LAST time, XNAMEX, /dev/urandom IS NOT a variable name generator...
-LOL!
-LOTS of changes. period
+just trolling the repo
+Keep calm and commit - Steady progress on a project
 Landed.
+last hope failed, maybe now
+last minute fixes.
 Last time I said it works? I was kidding.  Try this.
+LAST time, XNAMEX, /dev/urandom IS NOT a variable name generator...
+less french words
+lets drink beer
 Locating the required gigapixels to render...
 Lock S-foils in attack position
+lol
+lol digg
+LOL!
+lolwhat?
+lots and lots of changes
+lots of changes after a lot of time
+LOTS of changes. period
 Love coding? here's the secret reason why
 Low On Caffeine, Please Forgive Coding Style
-MOAR BIFURCATION
 Made it to compile...
+magic, have no clue but it works
 Major fixup.
 Make Sure You Are Square With Your God Before Trying To Merge This
 Make that it works in 90% of the cases.  3:30.
+making code less cancer
+making this thing actually usable.
+marks
 Merge pull my finger request
 Merge pull request #67 from Lazersmoke/fix-andys-shit Fix andys shit
+mergeconflix is the new hottest Gaul on the block
+mergederp
 Merging 'WIP: Do Not Merge This Branch' Into Master
 Merging the merge
+minor changes
 Minor updates
 Misc. fixes
+Mischief managed - Cleaned up after implementing secret feature
+Mission Impossible - Accomplished challenging task
+MOAR BIFURCATION
 Mongo.db was empty, filled now with good stuff
+more debug... who overwrote!
+more fixes
 More ignore
+more ignored words
+more ignores
+more stuff
+move your body every every body
 Moved something to somewhere... goodnight...
 My bad
 My boss forced me to build this feature... Pure shit.
-NOJIRA: No cry
-NSA backdoor - ignore
-Never Run This Commit As Root
+need another beer
+needs more cow bell
 Never before had a small typo like this one caused so much damage.
 Never gonna give you up
 Never gonna give, never gonna give
@@ -263,122 +441,205 @@ Never gonna make you cry
 Never gonna run around and desert you
 Never gonna say goodbye
 Never gonna tell a lie and hurt you
+Never Run This Commit As Root
 Next time someone asks you how to fix an infinite loop, remember this commit
 Nitpicking about alphabetizing methods, minor OCD thing
 No changes after this point.
 No changes made
 No time to commit.. My people need me!
+No, seriously, it's fixed now - Resolved lingering issues
 Nobody had ever created a function like this one before.
+NOJIRA: No cry
 Not one conflict, today was a good day.
 Not sure why
 Nothing to see here, move along
 Now added delete for real
 Now it's all microservices, I hope the fad persists.
 Now we tell you your browser sucks in your native tongue.
+NSA backdoor - ignore
 Obligatory placeholder commit message
 Oh my god what year is it?!
 Oh no
 Ok
 Ok, 5am, it works.  For real.
+omg what have I done?
+omgsosorry
 One does not simply merge into master
 One little whitespace gets its very own commit! Oh, life is so erratic!
 One more time, but with feeling.
 Only Tom Cruise knows why.
+oops
+oops - thought I got that one.
+oops, forgot to add the file
+oops!
+oopsie B|
 Out for vacation... DONT YOU DARE TO CALL ME.
+pam anderson is going to love me.
+pay no attention to the man behind the curtain
 PEBKAC
 Peopleware Chapter 8: "You Never Get Anything Done around Here between 9 and 5."
+pep8 - cause I fell like doing a barrel roll
+pep8 fixer
+perfect...
+permanent hack, do not revert
+pgsql is being a pain
+pgsql is more strict, increase the hackiness up to 11
 Pig
 Pipeline goes brrrrrrr
 Please enter the commit message for your changes. Lines starting with '#' will be ignored, and an empty message aborts the commit.
 Please forgive me
 Please no changes this time.
 Please our Lord and Savior the Great Linter.
+pointless limitation
 Popping stash
+pr is failing but merging anyways, because I am an admin
 Programming the flux capacitor
+project lead is allergic to changes...
 Push poorly written test can down the road another ten years
+Pushing the red button - Deploying risky update
+put code that worked where the code that didn't used to be
 Put everything in its right place
 QuickFix.
+rats
 REALLY FUCKING FIXED
+really ignore ignored worsd
 Refactor factories, revisit visitors
 Refactored configuration.
+refuckulated the carbonator
 Reinventing the wheel. Again.
+remove certain things and added stuff
+remove debug<br/>all good
 Removed code.
+removed echo and die statements, lolz.
 Removed test case since code didn't pass QA
+removed tests since i can't make them green
 Removed the 2gb .hprof file from git history
 Removing unecessary stuff
+removing unit tests
 Replace all whitespaces with tabs.
 Reset error count between rows. herpderp
+restored deleted entities just to be sure
 Reticulating splines...
 Revert "fuckup".
 Revert "git please work"
 Revert "just testing, remember to revert"
 Revert this commit
 Rush B!
-SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
-SHIT ===> GOLD
-SOAP is a piece of shit
+s/    /  /g
+s/import/include/
 Saint Pipeline, please give me the green light
 Same as last commit with changes
 See last commit
+SEXY RUSSIAN CODES WAITING FOR YOU TO CALL
+SHIT ===> GOLD
 Shit code!
+should get thru ci now
+should work I guess...
+should work now.
 Shovelling coal into the server...
+Sleep is for the weak - Late night bug fixing
+small is a real HTML tag, who knew.
 So my boss wanted this button ...
+SOAP is a piece of shit
+some brief changes
 Some bugs fixed
 Some shit.
+some stuff working haha
+somebody keeps erasing my changes.
 Somebody set up us the bomb.
+someday I gonna kill someone for this shit...
+someone fails and it isn't me
 Something fixed
+sometimes you just herp the derp so hard it herpderps
+speling is difikult
 Spinning up the hamster...
+squash me
+starting the service is always better
 Still can't get this right...
+still trying to render a damn cube
+stopped caring XNUM8,23X commits ago
+stuff
 Stuff
 Switched off unit test XNUM15X because the build had to go out now and there was no time to fix it properly.
+syntax
+tagging release w.t.f.
 TDD: 1, Me: 0
-TODO: Fix later
-TODO: Replace placeholder code
-TODO: Replace stubs
-TODO: Tell someone to implement this
-TODO: write meaningful commit message
 Test commit. Please ignore
 Testing in progress ;)
 Testing the test
+that coulda been bad
 That last commit message about silly mistakes pales in comparision to this one
+That should do it - Fixed broken UI
+that's all folks
 That's just how I roll
+The cake is a lie - Addressing unfulfilled promises in code
+The code awakens - Reviving a dormant project
 The dog is eating my code
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
+The magic continues - Added new features
+the magic is real
 The same thing we do every night, Pinky - try to take over the world!
 The universe is possible
+these confounded tests drive me nuts
+these guys are flipped
 They came from... Behind
+things occurred
 Things went wrong...
-This Is Why We Don't Push To Production On Fridays
+third time's a charm
 This branch is so dirty, even your mom can't clean it.
 This bug has driven lots of coders completely mad. You won't believe how it ended up being fixed
 This bunny should be killed.
 This changes nothing, don't look
 This commit is a lie
+this doesn't really make things faster, but I tried
 This is a basic implementation that works.
+This is fine - Addressing critical issues
+this is how we generate our shit.
 This is my code. My code is amazing.
+this is my quickfix branch and i will use to do my quickfixes
 This is not a commit
 This is not the commit message you are looking for
+this is Spartaaaaaaaa
 This is supposed to crash
 This is the last time we let XNAMEX commit ascii porn in the comments.
 This is where it all begins...
+this is why docs are important
 This is why git rebase is a horrible horrible thing.
 This is why the cat shouldn't sit on my keyboard.
+This Is Why We Don't Push To Production On Fridays
 This really should not take 19 minutes to build.
+this should fix it
 This should work until december 2013.
 This solves it.
 This was the most stupid bug in the world, fixed in the smartest way ever
 This will definitely break in 20XNUM20,89X (TODO)
+tl;dr
 To be honest, I do not quite remember everything I changed here today. But it is all good, I tell ya.
+To infinity and beyond! - Optimizing performance
 To those I leave behind, good luck!
+TODO: Fix later
+TODO: Replace placeholder code
+TODO: Replace stubs
+TODO: Tell someone to implement this
+TODO: write meaningful commit message
 Todo!!!
 Too lazy to write descriptive message
 Too tired to write descriptive message
+totally more readable
+touched...
 Transpiled mainframe.
 Trust me, I'm an engineer!... What the f*ck did just happened here?
 Trust me, it's not badly written. It's just way above your head.
+try our sister game minceraft!
+trying to do something right!
 Trying to fake a conflict
+tunning
+typo
 Ugh. Bad rebase.
+uhhhhhh
 Undoing last comming
+unh
+unionfind is no longer being molested.
 Update .gitignore
 Update commit_messages.txt
 Updated
@@ -386,11 +647,8 @@ Updated build targets.
 Updated framework to the lattest version
 Use a real JS construct, WTF knows why this works in chromium.
 Useful text
+various changes
 Version control is awful
-WHO THE FUCK CAME UP WITH MAKE?
-WIP, always
-WIPTF
-WTF is this.
 We Had To Use Dark Magic To Make This Work
 We know the game and we're gonna play it
 We should delete this crap before shipping.
@@ -398,20 +656,37 @@ We should get someone from Purdue to do this. They are the boilerplaters.
 We'll figure it out on Monday
 We're no strangers to love
 We've known each other for so long
+well crap.
 Well the book was obviously wrong.
 Well, it's doing something.
 What happens in vegas stays in vegas
+what is estonia up to now ...
+what the hell happened here
 Whatever will be, will be 8{
 Whatever.
+whatthecommit.com’s server IP address could not be found.
 Whee, good night.
 Whee.
-Who Let the Bugs Out??
+who has two thumbs and is a genius? not this guy!
 Who has two thumbs and remembers the rudiments of his linear algebra courses?  Apparently, this guy.
+who hurt you
 Who knows WTF?!
 Who knows...
+Who Let the Bugs Out??
+WHO THE FUCK CAME UP WITH MAKE?
+whooooooooooooooooooooooooooo
+why is everything broken
 Why The Fuck?
-Working on WIP
+wip
+WIP, always
+WIPTF
+woa!! this one was really HARD!
+work in progress
+workaround for ant being a pile of fail
 Working on tests (haha)
+Working on WIP
+wrapping should work properly. Probably.
+WTF is this.
 Wubbalubbadubdub!
 XNAMEX broke the regex, lame
 XNAMEX made me do it
@@ -422,250 +697,15 @@ XUPPERNAMEX, WE WENT OVER THIS. C++ IO SUCKS.
 XUPPERNAMEX, WE WENT OVER THIS. EXPANDTAB.
 Yep, XNAMEX was right on this one.
 Yes, I was being sarcastic.
+yet another quality commit
+yo recipes
+Yoda says, 'Do or do not, there is no try' - Confident in the code change
+yolo push
 You can't see it, but I'm making a very angry face right now
+you do wanna make me cry and i wanna say goodbye
 You know the rules and so do I
+You shall not pass! - Added validation checks
 You should have trusted me.
 You wouldn't get this from any other guy
 Your commit is writing checks your merge can't cash.
 Your heart's been aching but you're too shy to say it
-[Insert your commit message here. Be sure to make it descriptive.]
-[no message]
-[skip ci] I'll fix the build monday
-_
-a few bits tried to escape, but we caught them
-a lot of shit
-accidental commit
-add actual words
-add dirty scripts from the dark side of the universe
-added code
-added message
-added security.
-added some filthy stuff
-added super-widget 2.0.
-after of this commit remember do a git reset hard
-ajax-loader hotness, oh yeah
-and a comma
-and so the crazy refactoring process sees the sunlight after some months in the dark!
-another big bag of changes
-apparently i did something…
-arrgghh... damn this thing for not working.
-arrrggghhhhh fixed!
-asdfasdfasdfasdfasdfasdfadsf
-assorted changes
-bad things happen when you forget about that one little change you made ages ago
-bara bra grejjor
-better code
-better grepping
-better ignores
-betterer code
-bifurcation
-bla
-breathe, =, breathe
-buenas those-things.
-bug fix
-bugger
-bump to 0.0.3-dev:wq
-bumping poms
-c&p fail
-changed things...
-changes
-ci test
-clarify further the brokenness of C++. why the fuck are we using C++?
-commented out failing tests
-commit
-copy and paste is not a design pattern
-de-misunderestimating
-debug line test
-debug suff
-debugo
-derp, helper method rename
-derpherp
-diaaaaaazeeeeeeeeeepam
-did everything
-dirty hack, have a better idea ?
-does it work? maybe. will I check? no.
-doh.
-done. going to bed now.
-dope
-download half the damn internet to parse a pdf
-enabled ultra instinct
-epic
-eppic fail XNAMEX
-extra debug for stuff module
-f
-fail
-features
-ffs
-final commit.
-first blush
-fix
-fix /sigh
-fix bug, for realz
-fix some fucking errors
-fix tpyo
-fixed conflicts (LOL merge -s ours; push -f)
-fixed errors in the previous commit
-fixed mistaken bug
-fixed shit that havent been fixed in last commit
-fixed some minor stuff, might need some additional work.
-fix that damn sign!!!
-fixed the israeli-palestinian conflict
-fixes
-fixing project shit
-foo
-forgot a contact page woops haha
-forgot to save that file
-forgot we're not using a smart language
-formatted all
-freemasonry
-fuckup.
-gave up and used tables.
-giggle.
-git + ipynb = :(
-git please work
-git stash * 
-god help us all
-grmbl
-grrrr
-hacky sack
-haha yes it works now
-happy monday _ bleh _
-harharhar
-he knows.
-herpderp
-herpderp (redux)
-hey, look over there!
-hey, what's that over there?!
-hmmm
-holy shit it's functional
-hoo boy
-hopefully going to get a successful build got damn it
-i dunno, maybe this works
-i hid an easter egg in the code. can you find it?
-i need therapy
-i think i fixed a bug...
-if you're not using et, fuck off
-implemented missing semicolon
-improved function
-include shit
-increased loading time by a bit
-it is hump day _^_
-it's friday
-jobs... steve jobs
-just checking if git is working properly...
-just shoot me
-just trolling the repo
-last hope failed, maybe now
-last minute fixes.
-less french words
-lets drink beer
-lol
-lol digg
-lolwhat?
-lots and lots of changes
-lots of changes after a lot of time
-magic, have no clue but it works
-making code less cancer
-making this thing actually usable.
-marks
-mergeconflix is the new hottest Gaul on the block
-mergederp
-minor changes
-more debug... who overwrote!
-more fixes
-more ignored words
-more ignores
-more stuff
-move your body every every body
-need another beer
-needs more cow bell
-omg what have I done?
-omgsosorry
-oops
-oops - thought I got that one.
-oops!
-oops, forgot to add the file
-oopsie B|
-pam anderson is going to love me.
-pay no attention to the man behind the curtain
-pep8 - cause I fell like doing a barrel roll
-pep8 fixer
-perfect...
-permanent hack, do not revert
-pgsql is being a pain
-pgsql is more strict, increase the hackiness up to 11
-pointless limitation
-pr is failing but merging anyways, because I am an admin
-project lead is allergic to changes...
-put code that worked where the code that didn't used to be
-rats
-really ignore ignored worsd
-refuckulated the carbonator
-remove certain things and added stuff
-remove debug<br/>all good
-removed echo and die statements, lolz.
-removed tests since i can't make them green
-removing unit tests
-restored deleted entities just to be sure
-s/    /  /g
-s/import/include/
-should get thru ci now
-should work I guess...
-should work now.
-small is a real HTML tag, who knew.
-some brief changes
-some stuff working haha
-somebody keeps erasing my changes.
-someday I gonna kill someone for this shit...
-someone fails and it isn't me
-sometimes you just herp the derp so hard it herpderps
-speling is difikult
-squash me
-starting the service is always better
-still trying to render a damn cube
-stopped caring XNUM8,23X commits ago
-stuff
-syntax
-tagging release w.t.f.
-that coulda been bad
-that's all folks
-the magic is real
-these confounded tests drive me nuts
-these guys are flipped
-things occurred
-third time's a charm
-this doesn't really make things faster, but I tried
-this is Spartaaaaaaaa
-this is how we generate our shit.
-this is my quickfix branch and i will use to do my quickfixes
-this is why docs are important
-this should fix it
-tl;dr
-totally more readable
-touched...
-try our sister game minceraft!
-trying to do something right!
-tunning
-typo
-uhhhhhh
-unh
-unionfind is no longer being molested.
-various changes
-well crap.
-what the hell happened here
-what is estonia up to now ...
-whatthecommit.com’s server IP address could not be found.
-who has two thumbs and is a genius? not this guy!
-who hurt you
-whooooooooooooooooooooooooooo
-why is everything broken
-wip
-woa!! this one was really HARD!
-work in progress
-workaround for ant being a pile of fail
-wrapping should work properly. Probably.
-yet another quality commit
-yo recipes
-yolo push
-you do wanna make me cry and i wanna say goodbye
-﻿ - Temporary commit.
