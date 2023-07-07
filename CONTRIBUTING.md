@@ -2,7 +2,7 @@
 
 ## Sorting
 
-Don't bother sorting the file. Every now and then I'll sort and clean it up.
+Don't bother sorting the files. Every now and then I'll sort and clean up.
 
 ## License
 
