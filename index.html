@@ -15,17 +15,18 @@
             text-align: left;
             margin: 1em auto;
         }
-        .permalink {
+        .link-wrapper {
+            display: inline-block;
             font-size: .5em;
             /* ensure compliance w/ AAA WCAG standards for accessible text */
             color: #595959;
             line-height: 1em;
         }
-        .permalink a {
+        .link-wrapper a {
             text-decoration: none;
             color: inherit;
         }
-        .permalink a:hover {
+        .link-wrapper a:hover {
             text-decoration: underline;
         }
     </style>
@@ -33,8 +34,17 @@
 <body>
     <div id="content">
         <p>{% raw message %}</p>
-        <p class="permalink">
+        <p class="link-wrapper">
             [<a href="/{{ message_hash }}">permalink</a>]
+        </p>
+        <p class="link-wrapper">
+            [<a href="/">unsafe</a>]
+        </p>
+        <p class="link-wrapper">
+            [<a href="/?safe">safe only</a>]
+        </p>
+        <p class="link-wrapper">
+            [<a href="/?censor">censored</a>]
         </p>
     </div>
 </body>

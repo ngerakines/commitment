@@ -14,7 +14,12 @@ define("port", default=5000, help="run on the given port", type=int)
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self, message_hash=None):
-        found_message = messages.find_by_md5(message_hash)
+        safe_only = self.get_argument("safe", default=False) != False
+        censor = self.get_argument("censor", default=False)
+        if censor == "":
+            censor = True
+
+        found_message = messages.find_by_md5(message_hash, censor=censor)
 
         if message_hash and not found_message:
             raise tornado.web.HTTPError(404)
@@ -22,7 +27,8 @@ class MainHandler(tornado.web.RequestHandler):
         if found_message:
             self.output_message(found_message, message_hash)
         else:
-            message, generated_message_hash = messages.generate()
+            message, generated_message_hash = (
+                messages.generate(safe_only=safe_only, censor=censor))
             self.output_message(message, generated_message_hash)
 
     def output_message(self, message, message_hash):
