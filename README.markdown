@@ -15,6 +15,12 @@ Some interesting usage for that can be:
 git config --global alias.yolo '!git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
 ```
 
+## Make it safe for work
+
+    https://whatthecommit.com/?safe filters out any unsafe or swearing messages
+    https://whatthecommit.com/?censor censors them instead, and filters messages that wouldn't be funny if censored
+    https://whatthecommit.com/?censor=* censors using custom pattern
+
 Or use one of the following VSCode Extensions:
 
 - [WhatTheCommit](https://marketplace.visualstudio.com/items?itemName=Gaardsholt.vscode-whatthecommit) 
