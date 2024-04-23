@@ -1,53 +1,72 @@
+import asyncio
 import os
-import sys
 import random
 import re
 import json
-import signal
-from typing import Dict, List
+from typing import Dict, List, Optional, Set
 
 from hashlib import md5
 
-import tornado.httpserver
-import tornado.ioloop
 import tornado.web
 from tornado.escape import xhtml_unescape
-from tornado.options import define, options
 
-define("port", default=5000, help="run on the given port", type=int)
-
-names = ['Nick', 'Steve', 'Andy', 'Qi', 'Fanny', 'Sarah', 'Cord', 'Todd',
-    'Chris', 'Pasha', 'Gabe', 'Tony', 'Jason', 'Randal', 'Ali', 'Kim',
-    'Rainer', 'Guillaume', 'Kelan', 'David', 'John', 'Stephen', 'Tom', 'Steven',
-    'Jen', 'Marcus', 'Edy', 'Rachel', 'Ethan', 'Dan', 'Darren', 'Greg']
-
-humans_file = os.path.join(os.path.dirname(__file__), 'static', 'humans.txt')
-messages_file = os.path.join(os.path.dirname(__file__), 'commit_messages.txt')
-messages: Dict[str, str] = {}
-
-# Create a hash table of all commit messages
-with open(messages_file, 'r', encoding='utf-8') as messages_input:
-    for line in messages_input.readlines():
-        messages[md5(line.encode('utf-8')).hexdigest()] = line
-
-names: List[str] = []
-
-with open(humans_file, 'r', encoding='utf-8') as humans_input:
-    humans_content = humans_input.read()
-    for line in humans_content.split("\n"):
-        if "Name:" in line:
-            data = line[6:].rstrip()
-            if data.find("github:") == 0:
-                names.append(data[7:])
-            else:
-                names.append(data.split(" ")[0])
+default_names = [
+    "Ali",
+    "Andy",
+    "Brannon",
+    "Chris",
+    "Cord",
+    "Dan",
+    "Darren",
+    "David",
+    "Edy",
+    "Ethan",
+    "Fanny",
+    "Gabe",
+    "Ganesh",
+    "Greg",
+    "Guillaume",
+    "James",
+    "Jason",
+    "Jay",
+    "Jen",
+    "John",
+    "Kelan",
+    "Kim",
+    "Lauren",
+    "Marcus",
+    "Matt",
+    "Matthias",
+    "Mattie",
+    "Mike",
+    "Nate",
+    "Nick",
+    "Pasha",
+    "Patrick",
+    "Paul",
+    "Preston",
+    "Qi",
+    "Rachel",
+    "Rainer",
+    "Randal",
+    "Ryan",
+    "Sarah",
+    "Stephen",
+    "Steve",
+    "Steven",
+    "Sunakshi",
+    "Todd",
+    "Tom",
+    "Tony",
+]
 
 num_re = re.compile(r"XNUM([0-9,]*)X")
 
-def fill_line(message):
-    message = message.replace('XNAMEX', random.choice(names))
-    message = message.replace('XUPPERNAMEX', random.choice(names).upper())
-    message = message.replace('XLOWERNAMEX', random.choice(names).lower())
+
+def fill_line(message: str, names: List[str]) -> str:
+    message = message.replace("XNAMEX", random.choice(names))
+    message = message.replace("XUPPERNAMEX", random.choice(names).upper())
+    message = message.replace("XLOWERNAMEX", random.choice(names).lower())
 
     nums = num_re.findall(message)
 
@@ -57,13 +76,13 @@ def fill_line(message):
         value = nums.pop(0) or str(end)
         if "," in value:
             position = value.index(",")
-            if position == 0: # XNUM,5X
+            if position == 0:  # XNUM,5X
                 end = int(value[1:])
-            elif position == len(value) - 1: # XNUM5,X
+            elif position == len(value) - 1:  # XNUM5,X
                 start = int(value[:position])
-            else: # XNUM1,5X
+            else:  # XNUM1,5X
                 start = int(value[:position])
-                end = int(value[position+1:])
+                end = int(value[position + 1 :])
         else:
             end = int(value)
         if start > end:
@@ -74,66 +93,103 @@ def fill_line(message):
 
     return message
 
+
 class MainHandler(tornado.web.RequestHandler):
-    def get(self, message_hash=None):
-        if not message_hash:
-            message_hash = random.choice(list(messages.keys()))
-        elif message_hash not in messages:
+    def initialize(self, messages: Dict[str, str], names: List[str]):
+        self.messages = messages
+        self.names = names
+
+    def get(self, message_hash: Optional[str] = None):
+        if message_hash is not None and message_hash not in self.messages:
             raise tornado.web.HTTPError(404)
 
-        message = fill_line(messages[message_hash])
+        if message_hash is None:
+            message_hash = random.choice(list(self.messages.keys()))
+
+        message = fill_line(self.messages[message_hash], self.names)
 
         self.output_message(message, message_hash)
 
     def output_message(self, message, message_hash):
-        self.set_header('X-Message-Hash', message_hash)
-        self.render('index.html', message=message, message_hash=message_hash)
+        self.set_header("X-Message-Hash", message_hash)
+        self.render("index.html", message=message, message_hash=message_hash)
+
 
 class PlainTextHandler(MainHandler):
     def output_message(self, message, message_hash):
-        self.set_header('Content-Type', 'text/plain')
-        self.set_header('X-Message-Hash', message_hash)
-        self.write(xhtml_unescape(message).replace('<br/>', '\n'))
+        self.set_header("Content-Type", "text/plain")
+        self.set_header("X-Message-Hash", message_hash)
+        self.write(xhtml_unescape(message).replace("<br/>", "\n"))
+
 
 class JsonHandler(MainHandler):
     def output_message(self, message, message_hash):
-        self.set_header('Content-Type', 'application/json')
-        self.set_header('X-Message-Hash', message_hash)
-        self.write(json.dumps({'hash': message_hash, 'commit_message':message.replace('\n', ''), 'permalink': self.request.protocol + "://" + self.request.host + '/' + message_hash }))
+        self.set_header("Content-Type", "application/json")
+        self.set_header("X-Message-Hash", message_hash)
+        self.write(
+            json.dumps(
+                {
+                    "hash": message_hash,
+                    "commit_message": message.replace("\n", ""),
+                    "permalink": f"{self.request.protocol}://{self.request.host}/{message_hash}",
+                }
+            )
+        )
+
 
 class HumansHandler(tornado.web.RequestHandler):
     def get(self):
-        self.set_header('Content-Type', 'text/plain')
-        self.write(humans_content)
+        self.set_header("Content-Type", "text/plain")
+        self.write(self.humans_content)
 
-class CommitmentApplication(tornado.web.Application):
-    is_closing = False
 
-    def signal_handler(self, signum, frame):
-        self.is_closing = True
+async def main():
+    humans_file = os.path.join(os.path.dirname(__file__), "static", "humans.txt")
+    messages_file = os.path.join(os.path.dirname(__file__), "commit_messages.txt")
+    messages: Dict[str, str] = {}
 
-    def try_exit(self):
-        if self.is_closing:
-            tornado.ioloop.IOLoop.instance().stop()
+    with open(messages_file, "r", encoding="utf-8") as messages_input:
+        for line in messages_input.readlines():
+            messages[md5(line.encode("utf-8")).hexdigest()] = line
 
-settings = {
-    'static_path': os.path.join(os.path.dirname(__file__), 'static'),
-}
+    names: Set[str] = set(list(default_names))
 
-application = CommitmentApplication([
-    (r'/', MainHandler),
-    (r'/([a-z0-9]+)', MainHandler),
-    (r'/index.json', JsonHandler),
-    (r'/([a-z0-9]+).json', JsonHandler),
-    (r'/index.txt', PlainTextHandler),
-    (r'/([a-z0-9]+)/index.txt', PlainTextHandler),
-    (r'/humans.txt', HumansHandler),
-], **settings)
+    with open(humans_file, "r", encoding="utf-8") as humans_input:
+        humans_content = humans_input.read()
+        for line in humans_content.split("\n"):
+            if "Name:" in line:
+                line = line.removeprefix("Name: ")
+                if (found := line.find("github")) > -1:
+                    line = line[found:].removeprefix("github:").removesuffix(")")
+                    names.add(line)
+                else:
+                    names.add(line.split(" ")[0])
 
-if __name__ == '__main__':
-    tornado.options.parse_command_line()
-    signal.signal(signal.SIGINT, application.signal_handler)
-    http_server = tornado.httpserver.HTTPServer(application)
-    http_server.listen(os.environ.get("PORT", 5000))
-    tornado.ioloop.PeriodicCallback(application.try_exit, 100).start()
-    tornado.ioloop.IOLoop.instance().start()
+    settings = {
+        "static_path": os.path.join(os.path.dirname(__file__), "static"),
+    }
+    values = {"messages": messages, "names": list(names)}
+    application = tornado.web.Application(
+        [
+            (
+                r"/(humans\.txt)",
+                tornado.web.StaticFileHandler,
+                dict(path=settings["static_path"]),
+            ),
+            (r"/", MainHandler, values),
+            (r"/([a-z0-9]+)", MainHandler, values),
+            (r"/index\.json", JsonHandler, values),
+            (r"/([a-z0-9]+)\.json", JsonHandler, values),
+            (r"/([a-z0-9]+)/index\.json", JsonHandler, values),
+            (r"/index\.txt", PlainTextHandler, values),
+            (r"/([a-z0-9]+)/index\.txt", PlainTextHandler, values),
+            (r"/([a-z0-9]+)\.txt", PlainTextHandler, values),
+        ],
+        **settings,
+    )
+    application.listen(os.environ.get("PORT", 5000))
+    await asyncio.Event().wait()
+
+
+if __name__ == "__main__":
+    asyncio.run(main())

@@ -1,1 +1,1 @@
-Tornado==6.2
+Tornado==6.4
