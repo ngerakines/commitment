@@ -187,6 +187,9 @@ I was told to leave it alone, but I have this thing called OCD, you see
 I was wrong...
 I will not apologize for art.
 I will run 'terraform fmt' before committing.
+I will run 'cargo fmt' before committing.
+I will run 'go fmt' before committing.
+I would rather be playing Hell Divers 2.
 I would rather be playing SC2.
 I'M PUSHING.
 I'll explain this when I'm sober .. or revert it
@@ -415,6 +418,8 @@ Working on WIP
 Working on tests (haha)
 Wubbalubbadubdub!
 XNAMEX broke the regex, lame
+XNAMEX is going to love this.
+XNAMEX is going to hate this.
 XNAMEX made me do it
 XNAMEX rebase plx?
 XNAMEX sucks
@@ -598,6 +603,9 @@ pgsql is more strict, increase the hackiness up to 11
 pointless limitation
 pr is failing but merging anyways, because I am an admin
 project lead is allergic to changes...
+push fix
+pushed fix again
+pushing another fix
 put code that worked where the code that didn't used to be
 rats
 really ignore ignored worsd
