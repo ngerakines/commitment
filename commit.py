@@ -100,6 +100,11 @@ class MainHandler(tornado.web.RequestHandler):
         self.names = names
 
     def get(self, message_hash: Optional[str] = None):
+
+        self.set_header("Access-Control-Allow-Origin", "*")
+        self.set_header("Access-Control-Allow-Methods", "GET")
+        self.set_header("Access-Control-Allow-Headers", "Origin,X-Requested-With,Content-Type,Accept")
+
         if message_hash is not None and message_hash not in self.messages:
             raise tornado.web.HTTPError(404)
 
@@ -176,6 +181,12 @@ async def main():
                 tornado.web.StaticFileHandler,
                 dict(path=settings["static_path"]),
             ),
+            (
+                r"/(\.well\-known/openapi\.(yaml|json))",
+                tornado.web.StaticFileHandler,
+                dict(path=settings["static_path"]),
+            ),
+            
             (r"/", MainHandler, values),
             (r"/([a-z0-9]+)", MainHandler, values),
             (r"/index\.json", JsonHandler, values),

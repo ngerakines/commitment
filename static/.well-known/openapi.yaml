@@ -1,0 +1,28 @@
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: What The Commit
+  description: A simple API to get random commit messages
+servers:
+  - url: https://whatthecommit.com
+paths:
+  '/index.json':
+    get:
+      description: Returns a random commit message.
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  hash:
+                    type: string
+                    example: "0666a11c52b7786e994c483ad86bbe92"
+                  commit_message:
+                    type: string
+                    example: "TODO: write meaningful commit message"
+                  permalink:
+                    type: string
+                    example: "https://whatthecommit.com/0666a11c52b7786e994c483ad86bbe92"
