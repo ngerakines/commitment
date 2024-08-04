@@ -1,16 +1,17 @@
 # Looking For Sponsors
 
-Enjoying https://whatthecommit.com/ ? Consider becoming a sponsor of this project. Your contributions keep the site running.
+Enjoying [https://whatthecommit.com/](https://whatthecommit.com/)? Consider becoming a sponsor of this project. Your contributions keep the site running.
 
 https://github.com/users/ngerakines/sponsorship
 
 # About WTC (What The Commit)
+
 Commitment is a small Tornado application that generates random commit messages.
 
     https://whatthecommit.com/
 
-Commitment also provides https://whatthecommit.com/index.txt which provides plain text output.  
-Some interesting usage for that can be:
+Commitment also provides https://whatthecommit.com/index.txt which provides plain text output. Some interesting usage for that can be:
+
 ```
 git config --global alias.yolo '!git commit -m "$(curl -s https://whatthecommit.com/index.txt)"'
 ```
@@ -22,6 +23,6 @@ Or use one of the following VSCode Extensions:
 
 # License
 
-Copyright (c) 2010-2021 Nick Gerakines <nick@gerakines.net>
+Copyright (c) 2010-2024 Nick Gerakines <nick@gerakines.net>
 
 This project and its contents are open source under the MIT license.

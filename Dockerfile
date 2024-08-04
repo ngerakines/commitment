@@ -1,4 +1,4 @@
-FROM python:3.10-alpine3.15
+FROM python:alpine
 WORKDIR /app
 COPY requirements.txt commit.py commit_messages.txt index.html /app/
 COPY static /app/static/

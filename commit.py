@@ -156,7 +156,7 @@ async def main():
 
     with open(messages_file, "r", encoding="utf-8") as messages_input:
         for line in messages_input.readlines():
-            messages[md5(line.encode("utf-8")).hexdigest()] = line
+            messages[md5(line.encode("utf-8")).hexdigest()] = line.rstrip()
 
     names: Set[str] = set(list(default_names))
 
@@ -167,7 +167,7 @@ async def main():
                 line = line.removeprefix("Name: ")
                 if (found := line.find("github")) > -1:
                     line = line[found:].removeprefix("github:").removesuffix(")")
-                    names.add(line)
+                    names.add(line.rstrip())
                 else:
                     names.add(line.split(" ")[0])
 

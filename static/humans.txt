@@ -1,7 +1,7 @@
 /* TEAM */
 Developer: Nick Gerakines
 Site: http://ngerakines.me/
-Twitter: @ngerakines
+ATProtocol: @ngerakines.me
 Location: Dayton, OH
 
 /* THANKS */
@@ -84,9 +84,9 @@ Name: github:ShanTulshi
 Name: Jonatha Daguerre (github:jonathadv)
 
 /* SITE */
-Last update: 2014/04/17
+Last update: 2024-08-04
 Standards: HTML5, CSS3
-Software: Vim, Git, Python, TextMate
+Software: Git, Python, Visual Studio Code
 
 /* SOURCE */
 Source: https://github.com/ngerakines/commitment

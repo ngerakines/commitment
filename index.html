@@ -28,6 +28,11 @@
             text-decoration: underline;
         }
     </style>
+    <meta name="description" content="{{ message }}">
+    <meta property="og:title" content="Commit Message Generator" />
+    <meta property="og:description" content="{{ message }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.whatthecommit.com/{{ message_hash }}" />
 </head>
 <body>
     <div id="content">
