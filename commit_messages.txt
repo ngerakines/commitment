@@ -5,10 +5,12 @@ $(init 0)
 $(rm -rvf .)
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
 (c) Microsoft 1988
+*insert depressed wojack*
 --help
 -m \'So I hear you like commits ...\'
 .
 ...
+...at least the password is hashed
 /sigh
 50/50
 640K ought to be enough for anybody
@@ -128,6 +130,7 @@ Fucking submodule bull shit
 Fucking templates.
 Future self, please forgive me and don't hit me with the baseball bat again!
 GIT :/
+GODDAMN IT I NEED SLEEP
 General commit (no IDs open) - Modifications for bad implementations
 Git wants e to commit, I want to sleep. Take me sweet void.
 Give me a break, it's 2am.  But it works now.
@@ -153,6 +156,7 @@ I already said I was sorry
 I am Root. We are Root.
 I am Spartacus
 I am even stupider than I thought
+I am losing my sanity.
 I am sorry
 I am the greatest javascript developer in the world.
 I can't believe it took so long to fix this.
@@ -346,6 +350,7 @@ Same as last commit with changes
 See last commit
 Shit code!
 Shovelling coal into the server...
+SLIUG HBERASIKDUVHGB ASDLIUVHG SDFLIGVUDFGHIOPL;REFHVIOPRL;UIGHVBPEIODUFSGVDFIOLUVGFEDLIVUGREIL UVGERUILVRGEDFLUIVREGLUI VERFLGRIU IT DOENST #$^#$%^&$%w& WEORK
 So my boss wanted this button ...
 Some bugs fixed
 Some shit.
@@ -369,6 +374,7 @@ That last commit was cringe
 That last commit message about silly mistakes pales in comparision to this one
 That's just how I roll
 The dog is eating my code
+The Great Purge 2.0
 The last time I tried this the monkey didn't survive. Let's hope it works better this time.
 The same thing we do every night, Pinky - try to take over the world!
 The universe is possible
@@ -471,14 +477,20 @@ a few bits tried to escape, but we caught them
 a lot of shit
 accidental commit
 add actual words
+add colors css and maybe some other things im forgetting too late for git diff i already added
 add dirty scripts from the dark side of the universe
+added about nothing
+added back explicit centering that was removed for some sleep deprived reason
 added code
+added funni oh god why am i doing this i need to sleep
 added message
 added security.
 added some filthy stuff
+added some *documentation*
 added super-widget 2.0.
 after of this commit remember do a git reset hard
 ajax-loader hotness, oh yeah
+almost thought my website was illegal for a second
 and a comma
 and so the crazy refactoring process sees the sunlight after some months in the dark!
 another big bag of changes
@@ -493,6 +505,7 @@ better code
 better grepping
 better ignores
 betterer code
+bgvsd
 bifurcation
 bla
 breathe, =, breathe
@@ -506,10 +519,13 @@ changed things...
 changes
 ci test
 clarify further the brokenness of C++. why the fuck are we using C++?
+close vim
 commented out failing tests
 commit
 copy and paste is not a design pattern
+credits added logo thingy yes piss 
 de-misunderestimating
+debug: more debug
 debug line test
 debug suff
 debugo
@@ -517,20 +533,26 @@ derp, helper method rename
 derpherp
 diaaaaaazeeeeeeeeeepam
 did everything
+did i forget to save 
 dirty hack, have a better idea ?
+disaster narrowly averted
 does it work? maybe. will I check? no.
 doh.
 done. going to bed now.
 dope
 download half the damn internet to parse a pdf
+dsdsdsdsd
 enabled ultra instinct
 epic
 eppic fail XNAMEX
+erm
 extra debug for stuff module
 f
 fail
+feat: nvm
 features
 ffs
+figured out why 500 was breaking cors, hint it's because my entire server is broken
 final commit.
 first blush
 fix
@@ -540,8 +562,10 @@ fix some fucking errors
 fix tpyo
 fixed conflicts (LOL merge -s ours; push -f)
 fixed errors in the previous commit
+fixed level 1 bug im losing my mind im losing my mind im losing my mind im losi
 fixed mistaken bug
 fixed shit that havent been fixed in last commit
+fixed slightly cancerous level design
 fixed some minor stuff, might need some additional work.
 fix that damn sign!!!
 fixed the israeli-palestinian conflict
@@ -572,18 +596,28 @@ herpderp (redux)
 hey, look over there!
 hey, what's that over there?!
 hmmm
+holy frick apocalypse survived i
+holy hell are there 12739 bugs
 holy shit it's functional
 hoo boy
 hopefully going to get a successful build got damn it
+how many times can i say 'frontend tweaks' differently
+i am the problem :3
 i dunno, maybe this works
+i forgot to commit for a while
+i got out of bed a second time for this this better be the last time
+i have no idea what i did
 i hid an easter egg in the code. can you find it?
 i need therapy
 i think i fixed a bug...
 if you're not using et, fuck off
+ignore oopsie
+im sorry but there's yet another frontend change
 implemented missing semicolon
 improved function
 include shit
 increased loading time by a bit
+init godot balls
 it is hump day _^_
 it's friday
 jobs... steve jobs
@@ -606,22 +640,30 @@ marks
 mergeconflix is the new hottest Gaul on the block
 mergederp
 minor changes
+misc
 more debug... who overwrote!
 more fixes
+more flexbox wizardry that i do not understand
 more ignored words
 more ignores
 more stuff
 move your body every every body
+my eyes are broken generics and my brain is melted inheritance
 need another beer
 needs more cow bell
+no progress whatsoever
+not sure what i did
+of course the one thing i haven't tested yet is broken
 omg what have I done?
 omgsosorry
+once more the lack of testing is biting me in the gluteus maximus
 oops
 oops - thought I got that one.
 oops!
 oops, forgot to add the file
 oopsie B|
 pam anderson is going to love me.
+part 2 idk what im doing
 pay no attention to the man behind the curtain
 pep8 - cause I fell like doing a barrel roll
 pep8 fixer
@@ -630,6 +672,7 @@ permanent hack, do not revert
 pgsql is being a pain
 pgsql is more strict, increase the hackiness up to 11
 pointless limitation
+possibility still broken but otherwise fixed
 pr is failing but merging anyways, because I am an admin
 project lead is allergic to changes...
 push fix
@@ -639,17 +682,23 @@ put code that worked where the code that didn't used to be
 rats
 really ignore ignored worsd
 refuckulated the carbonator
+relented and used npm instead of commiting 170k lines of bootstrap to git
 remove certain things and added stuff
 remove debug<br/>all good
 removed echo and die statements, lolz.
 removed tests since i can't make them green
+removed totally legal stuff
 removing unit tests
+rename
 restored deleted entities just to be sure
 s/    /  /g
 s/import/include/
+screw it manually lining up the navbar logo
 should get thru ci now
 should work I guess...
 should work now.
+sioimething idk i forogot
+slightly un-wip'ed wip main page with 15 seconds of effort
 small is a real HTML tag, who knew.
 some brief changes
 some stuff working haha
@@ -665,8 +714,10 @@ stopped caring XNUM8,23X commits ago
 stuff
 syntax
 tagging release w.t.f.
+torture
 that coulda been bad
 that's all folks
+the great purge is over. did it work? we dont know
 the magic is real
 these confounded tests drive me nuts
 these guys are flipped
@@ -689,19 +740,24 @@ uhhhhhh
 unh
 unionfind is no longer being molested.
 various changes
+wasting time
 well crap.
 what the hell happened here
 what is estonia up to now ...
+what the file doin
 whatthecommit.com’s server IP address could not be found.
 who has two thumbs and is a genius? not this guy!
 who hurt you
 whooooooooooooooooooooooooooo
 why is everything broken
+why tf are databases so hard you stupid flush()
 wip
 woa!! this one was really HARD!
 work in progress
 workaround for ant being a pile of fail
+working on docs (f*&k sphinx)
 wrapping should work properly. Probably.
+yes
 yet another quality commit
 yo recipes
 yolo push
