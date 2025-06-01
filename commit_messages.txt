@@ -1,6 +1,7 @@
  ¯\_(ツ)_/¯
 "Get that shit outta my master."
 #GrammarNazi
+All downhill from here
 $(init 0)
 $(rm -rvf .)
 (\ /)<br/>(O.o)<br/>(&gt; &lt;) Bunny approves these changes.
