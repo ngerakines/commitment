@@ -645,6 +645,7 @@ removed echo and die statements, lolz.
 removed tests since i can't make them green
 removing unit tests
 restored deleted entities just to be sure
+revert life
 s/    /  /g
 s/import/include/
 should get thru ci now
